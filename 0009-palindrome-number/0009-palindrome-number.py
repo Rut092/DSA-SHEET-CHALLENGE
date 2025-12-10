@@ -5,6 +5,7 @@ class Solution:
         num = x
         rev = 0
         while(num):
-            rev=rev*10 + num%10
-            num=num//10
-        return True if rev==x else False
+            rev,num=rev*10 + num%10,num//10
+            if rev==num:
+                return True
+        return True if x==rev else False
