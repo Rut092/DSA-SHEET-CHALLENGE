@@ -5,4 +5,4 @@ class Solution:
         num,rev= x,0
         while(num):
             rev,num=rev*10 + num%10,num//10
-        return True if rev==x else False
+        return rev==x
