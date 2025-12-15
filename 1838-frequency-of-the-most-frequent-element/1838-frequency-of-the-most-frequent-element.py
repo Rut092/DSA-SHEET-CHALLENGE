@@ -10,6 +10,8 @@ class Solution:
                 j+=1
                 if j<len(nums):
                     sum+=nums[j]
+                else:
+                    break
                 
             else:
                 sum-=nums[i]
