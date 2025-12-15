@@ -4,7 +4,7 @@ class Solution:
         max_freq,i,j = 0,0,0
         nums = sorted(nums)
         sum = nums[i]
-        while(j<len(nums) and i<=j):
+        while(i<=j):
             if nums[j]*(j-i+1)<=sum+k:
                 max_freq=max(max_freq,j-i+1)
                 j+=1
