@@ -4,15 +4,22 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        arr = []
-        for i in range(len(nums)-1):
-            if nums[i]>nums[i+1]:
-                for j in range(i+1,len(nums)-1):
-                    if nums[j]>nums[j+1]:
-                        return False
+        # arr = []
+        # for i in range(len(nums)-1):
+        #     if nums[i]>nums[i+1]:
+        #         for j in range(i+1,len(nums)-1):
+        #             if nums[j]>nums[j+1]:
+        #                 return False
                 
-                if nums[-1]>nums[0]:
-                    return False
-                break
+        #         if nums[-1]>nums[0]:
+        #             return False
+        #         break
 
+        # return True
+        drop = 0
+        for i in range(len(nums)):
+            if nums[i]>(nums[(i+1)%len(nums)]):
+                drop+=1
+            if drop>1:
+                return False
         return True
