@@ -7,13 +7,15 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
-        if m==0:
-            for i in range(n):
-                nums1[i]=nums2[i]
-        while(m>0 and n>0):
-            if nums2[n-1]>nums1[m-1]:
+        while(m>0 or n>0):
+            if n-1>=0 and m-1>=0 and nums2[n-1]>nums1[m-1]:
                 nums1[m+n-1] = nums2[n-1]
                 n-=1
-            else:
+            elif  n-1>=0 and m-1>=0 and nums2[n-1]<=nums1[m-1]:
                 nums1[m+n-1],nums1[m-1] = nums1[m-1],nums1[m+n-1]
+                m-=1
+            elif m-1<0:
+                nums1[n-1]=nums2[n-1]
+                n-=1
+            else:
                 m-=1
