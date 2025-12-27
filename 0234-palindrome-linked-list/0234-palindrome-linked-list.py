@@ -12,27 +12,23 @@ class Solution(object):
         slow = fast = head
 
         while(fast and fast.next):
-            print(slow.val)
             if fast.next.next:
                 slow = slow.next
             fast=fast.next.next
             
-        pointer = head
         prev = None
         pointer = slow.next
+        
         while(pointer):
-            current = pointer
             forward = pointer.next
-            current.next=prev
-            prev = current
+            pointer.next=prev
+            prev = pointer
             pointer =forward
         
-        slow = prev
         pointer=head
-        while(slow):
-            print(pointer.val,slow.val)
-            if slow.val==pointer.val:
-                slow=slow.next
+        while(prev):
+            if prev.val==pointer.val:
+                prev=prev.next
                 pointer = pointer.next
             else:
                 return False
