@@ -16,8 +16,7 @@ class Solution(object):
                 slow = slow.next
             fast=fast.next.next
             
-        prev = None
-        pointer = slow.next
+        prev,pointer = None,slow.next
         
         while(pointer):
             forward = pointer.next
@@ -26,10 +25,10 @@ class Solution(object):
             pointer =forward
         
         pointer=head
+        
         while(prev):
-            if prev.val==pointer.val:
-                prev=prev.next
-                pointer = pointer.next
-            else:
+            if prev.val!=pointer.val:
                 return False
+            prev=prev.next
+            pointer = pointer.next
         return True
