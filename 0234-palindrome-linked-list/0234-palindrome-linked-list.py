@@ -33,13 +33,3 @@ class Solution(object):
             else:
                 return False
         return True
-
-        # stack = []
-        # pointer = head
-        # while(pointer!=None):
-        #     stack.append(pointer.val)
-        #     pointer = pointer.next
-        # pointer = head
-        # while(len(stack) and pointer.val==stack.pop()):
-        #     pointer=pointer.next
-        # return True if len(stack)==0 else False
