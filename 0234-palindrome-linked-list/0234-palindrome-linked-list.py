@@ -12,16 +12,25 @@ class Solution(object):
         slow = fast = head
 
         while(fast and fast.next):
-            slow = slow.next
+            print(slow.val)
+            if fast.next.next:
+                slow = slow.next
             fast=fast.next.next
-        
+            
         pointer = head
-        if slow==head:
-            return True
-        slow = slow.next
-        if slow==None:
-            return False
+        prev = None
+        pointer = slow.next
+        while(pointer):
+            current = pointer
+            forward = pointer.next
+            current.next=prev
+            prev = current
+            pointer =forward
+        
+        slow = prev
+        pointer=head
         while(slow):
+            print(pointer.val,slow.val)
             if slow.val==pointer.val:
                 slow=slow.next
                 pointer = pointer.next
