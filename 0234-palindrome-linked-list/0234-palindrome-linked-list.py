@@ -14,11 +14,7 @@ class Solution(object):
         while(pointer!=None):
             stack.append(pointer.val)
             pointer = pointer.next
-        i,j=0,len(stack)-1
-        while(i<j):
-            if stack[i]==stack[j]:
-                i+=1
-                j-=1
-            else:
-                return False
-        return True
+        pointer = head
+        while(len(stack) and pointer.val==stack.pop()):
+            pointer=pointer.next
+        return True if len(stack)==0 else False
