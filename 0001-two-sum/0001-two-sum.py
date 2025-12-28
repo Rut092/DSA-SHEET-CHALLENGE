@@ -8,8 +8,7 @@ class Solution(object):
         key = {}
         for i in range(len(nums)):
             val = target-nums[i]
-            if key.get(val,-1)!=-1:
+            if val in key:
                 return [key[val],i]
-
             key[nums[i]] = i
         
