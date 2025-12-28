@@ -1,11 +1,15 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dict={}
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        key = {}
         for i in range(len(nums)):
-            a=target-nums[i]
-            if a in dict:
-                return [dict[a],i]
-            else:
-                dict[nums[i]]=i
-                
-                
+            val = target-nums[i]
+            if key.get(val,-1)!=-1:
+                return [key[val],i]
+
+            key[nums[i]] = i
+        
