@@ -1,38 +1,44 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution:
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        p=None
-        new=None
-        carry=0
-        while(l1 or l2):
-            if l1 is None:
-                m=0
-            else:
-                m=l1.val
-                l1=l1.next
-            if l2 is None:
-                n=0
-            else:
-                n=l2.val
-                l2=l2.next
-            if m+n+carry>=10:
-                q=(m+n+carry)%10
-                carry=1
-            else:
-                q=m+n+carry
-                carry=0
-            if p is None:
-                p=ListNode(q)
-                new=p
-            else:
-                new.next=ListNode(q)
-                new=new.next 
-        if carry==1:
-            new.next=ListNode(1)
-        return p
-            
+class Solution(object):
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: Optional[ListNode]
+        :type l2: Optional[ListNode]
+        :rtype: Optional[ListNode]
+        """
+        carry = 0
+        prev = None
+        node1,node2 = l1,l2
+
+        while(node1 and node2):
+            total = carry + node1.val + node2.val
+            node1.val = total%10
+            carry = total//10
+            prev = node1
+            node1,node2 = node1.next,node2.next
         
+        while(node1 and carry):
+            total = carry + node1.val
+            node1.val = total%10
+            carry = total//10
+            prev = node1
+            node1= node1.next
+
+        if node2:
+            prev.next=node2
+
+        while(node2 and carry):
+            total = carry + node2.val
+            node2.val = total%10
+            carry = total//10
+            prev = node2
+            node2= node2.next
+        
+        if carry:
+            prev.next = ListNode(carry)
+        
+        return l1
