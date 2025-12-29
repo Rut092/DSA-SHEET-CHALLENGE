@@ -7,14 +7,10 @@ class Solution(object):
         """
         arr = [i for i in s]
         l= len(s)
-        m=0
-        n=min(k-1,l-1)
-        while(m<l):
-            i,j=m,n
-            while(i<j):
-                arr[i],arr[j]=arr[j],arr[i]
-                i+=1
-                j-=1
-            m+=2*k
-            n=min(n+2*k,l-1)
+        for i in range(0,l,2*k):
+            a,b=i,min(l-1,i+k-1)
+            while(a<b):
+                arr[a],arr[b]=arr[b],arr[a]
+                a,b=a+1,b-1
         return "".join(arr)
+            
