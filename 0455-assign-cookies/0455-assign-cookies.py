@@ -9,10 +9,8 @@ class Solution(object):
         s.sort()
         i=j=0
         while(i<len(g) and j<len(s)):
-            if g[i]>s[j]:
-                j+=1
-            else:
-                j+=1
+            if g[i]<=s[j]:
                 i+=1
+            j+=1
         return i
         
