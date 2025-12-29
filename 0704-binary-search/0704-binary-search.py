@@ -5,11 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        i,j=0,len(nums)
-        m=len(nums)
+        i=0
+        m=j=len(nums)
         while(m):
             index = (i+j)//2
-            print(i,j,index)
             if nums[index]==target:
                 return index
             elif nums[index]>target:
