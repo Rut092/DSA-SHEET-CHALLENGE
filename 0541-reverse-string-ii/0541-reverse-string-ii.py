@@ -9,7 +9,7 @@ class Solution(object):
         l= len(s)
         m=0
         n=min(k-1,l-1)
-        while(n<l and m<l):
+        while(m<l):
             i,j=m,n
             while(i<j):
                 arr[i],arr[j]=arr[j],arr[i]
