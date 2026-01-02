@@ -9,9 +9,7 @@ class Solution(object):
         cols = len(mat[0])
 
         for row in range(rows):
-            count=0
-            for col in range(cols):
-                count+=mat[row][col]
+            count=sum(mat[row])
             if count>maxi:
                 maxi,ind=count,row
         return [ind,maxi]
