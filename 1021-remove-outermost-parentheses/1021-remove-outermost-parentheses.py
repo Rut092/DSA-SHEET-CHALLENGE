@@ -3,13 +3,13 @@ class Solution:
         arr = []
         opened = 0
         for i in s:
-            if i=='(':
-                if opened>0:
+            if i == "(":
+                if opened > 0:
                     arr.append(i)
-                opened+=1
+                opened += 1
             else:
-                if opened>1:    
+                if opened > 1:
                     arr.append(i)
-                opened-=1
-        
+                opened -= 1
+
         return "".join(arr)
