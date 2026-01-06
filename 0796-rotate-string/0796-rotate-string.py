@@ -1,21 +1,39 @@
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        break_pt = -1
-        s_len = len(s)
-        
-        if s_len!=len(goal):
-            return False
+        l_needle = len(s)
+        if l_needle!=len(goal): return False
 
-        i = j = 0
-        while(i<s_len and j<s_len):
-            if s[i]!=goal[j]:
-                i=0
-                j+=1
-                break_pt=-1
+        heystack = goal + goal
+        needle = s
+        lps = [0]*l_needle
+
+        prevLPS , counter = 0,1
+        while(counter<l_needle):
+            if needle[counter]==needle[prevLPS]:
+                lps[counter] = prevLPS + 1
+                prevLPS+=1
+                counter+=1
+            elif prevLPS==0:
+                lps[counter]=0
+                counter+=1
             else:
-                if break_pt==-1:
-                    break_pt=j
-                i+=1
-                j+=1
+                prevLPS = lps[prevLPS-1]
 
-        return False if break_pt==-1 else s==goal[break_pt:]+goal[:break_pt]
+
+        h_counter,n_counter=0,0
+        while(h_counter<len(heystack)):
+            if heystack[h_counter]==needle[n_counter]:
+                h_counter+=1
+                n_counter+=1
+            else:
+                if n_counter==0:
+                    h_counter+=1
+                else:
+                    n_counter = lps[n_counter-1]
+            if n_counter == len(needle):
+                return True
+
+        return False
+
+
+
