@@ -1,16 +1,21 @@
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        s_len,g_len = len(s),len(goal)
-
-        if s_len!=g_len:
+        break_pt = -1
+        s_len = len(s)
+        
+        if s_len!=len(goal):
             return False
 
-        for shift in range(s_len):
-            match = True
-            for index in range(s_len):
-                if s[index]!=goal[(index+shift)%s_len]:
-                    match=False
-            if match==True:
-                return True
-        return False
-        
+        i = j = 0
+        while(i<s_len and j<s_len):
+            if s[i]!=goal[j]:
+                i=0
+                j+=1
+                break_pt=-1
+            else:
+                if break_pt==-1:
+                    break_pt=j
+                i+=1
+                j+=1
+
+        return False if break_pt==-1 else s==goal[break_pt:]+goal[:break_pt]
