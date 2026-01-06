@@ -5,7 +5,7 @@ class Solution:
         for char in s:
             letter_map[char] = letter_map.get(char,0)+1
         for char in t:
-            if char not in letter_map or letter_map[char] ==0:
+            if not letter_map.get(char,0):
                 return False
             letter_map[char]-=1
 
