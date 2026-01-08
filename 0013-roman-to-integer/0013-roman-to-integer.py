@@ -4,12 +4,9 @@ class Solution:
         s_len = len(s)
         count=0
         for i in range(len(s)):
-            if i+1==s_len:
-                count+=values[s[i]]
+            if i+1!=s_len and values[s[i]]<values[s[i+1]]:
+                count-=values[s[i]]
             else:
-                if values[s[i]]<values[s[i+1]]:
-                    count-=values[s[i]]
-                else:
-                    count+=values[s[i]]
+                count+=values[s[i]]
 
         return count
