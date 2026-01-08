@@ -5,9 +5,7 @@ class Solution:
         for char in s:
             freq_hash[char] = freq_hash.get(char,0)-1
 
-        ele_freq = []
-        for key in freq_hash:
-            ele_freq.append([freq_hash[key],key])
+        ele_freq = [[item,key] for key,item in freq_hash.items()]
 
         heapq.heapify(ele_freq)
         ans = []
