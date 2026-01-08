@@ -10,7 +10,7 @@ class Solution:
         heapq.heapify(ele_freq)
         ans = []
 
-        for i in range(len(freq_hash)):
+        while ele_freq:
             count,ele = heapq.heappop(ele_freq)
             ans.append(ele*-count)
 
