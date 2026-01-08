@@ -8,5 +8,4 @@ class Solution:
                 count-=values[s[i]]
             else:
                 count+=values[s[i]]
-
         return count
