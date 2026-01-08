@@ -14,7 +14,6 @@ class Solution:
 
         for i in range(len(freq_hash)):
             count,ele = heapq.heappop(ele_freq)
-            for freq in range(-count):
-                ans.append(ele)
-                
+            ans.append(ele*-count)
+
         return "".join(ans)
