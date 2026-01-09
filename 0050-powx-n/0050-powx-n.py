@@ -1,18 +1,17 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        pow=abs(n)
-        y=1.00000
+
+        if n==0:
+            return 1
+        x = x if n>0 else 1/x
+        value = 1
+        n= n if n>0 else -n
         
-        while(pow>0):
-            if pow%2==1:
-                y*=x
-                pow-=1
-            else:
+        while(n):
+            if n%2==0:
                 x*=x
-                pow/=2
-            
-        if n<0:
-            return round(1/y,5)
-        else:
-            return round(y,5)
-                
+                n//=2
+            else:
+                value*=x
+                n-=1
+        return value
