@@ -8,14 +8,19 @@ class Solution(object):
 
         nums.sort()
         count = 0
-        i,j=0,len(nums)-1
+        length = len(nums)
+        i,j=0,length-1
         mod = (10**9+7)
+        power = [1]*length
+
+        for k in range(1, length):
+            power[k] = (power[k-1] * 2) % mod
 
         while(i<=j):
             if nums[i]+nums[j]>target:
                 j-=1
             else:
-                count= (count+(1<<(j-i)))%mod
+                count=  (count + power[j-i])%mod
                 i+=1
         return count
 
