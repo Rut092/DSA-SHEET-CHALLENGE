@@ -9,5 +9,4 @@ class Solution(object):
             if n&1:
                 count+=1
             n=n>>1
-            print(n)
         return count
