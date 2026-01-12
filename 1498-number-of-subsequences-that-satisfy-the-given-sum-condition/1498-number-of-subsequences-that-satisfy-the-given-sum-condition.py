@@ -15,7 +15,7 @@ class Solution(object):
             if nums[i]+nums[j]>target:
                 j-=1
             else:
-                count= (count+2**(j-i))%mod
+                count= (count+(1<<(j-i)))%mod
                 i+=1
         return count
 
