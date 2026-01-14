@@ -7,10 +7,20 @@ class MyStack:
         self.stack.append(x)
 
     def pop(self) -> int:
-        return self.stack.pop(-1)
+        for i in range(len(self.stack)-1):
+            self.stack.append(self.stack.pop(0))
+        return self.stack.pop(0)
 
     def top(self) -> int:
-        return self.stack[-1]
+        top = None
+        for i in range(len(self.stack)-1):
+            self.stack.append(self.stack.pop(0))
+        top = self.stack[0]
+
+        for i in range(len(self.stack)+1):
+            self.stack.append(self.stack.pop(0))
+
+        return top
 
     def empty(self) -> bool:
         return True if len(self.stack)==0 else False
