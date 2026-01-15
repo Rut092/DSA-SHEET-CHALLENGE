@@ -6,15 +6,10 @@ class Solution(object):
         """
         l = len(nums)
         idx = 0
-        reached = [0]*l
-        reached[0]=1
         reach = 0
-        while(idx<l and reached[idx]):
-            for i in range(reach,nums[idx]+1+idx):
-                if i<l-1:
-                    reached[i]=1
-                    reach = i-1
-                else:
-                    return True
+        while(idx<l and reach>=idx):
+            reach = max(reach,nums[idx]+idx)
+            if reach>=l-1:
+                return True
             idx+=1
         return False
