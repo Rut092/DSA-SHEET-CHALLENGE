@@ -9,19 +9,16 @@ class Solution(object):
             if money==5:
                 cash[2]+=1
             elif money==10:
-                if cash[2]==0:
+                if not cash[2]:
                     return False
                 cash[2]-=1
                 cash[1]+=1
             else:
-
-                money-=5
-                cash[0]+=1
-                if cash[1]:
-                    money-=10
+                if cash[1] and cash[2]:
                     cash[1]-=1
-                if money//5<=cash[2]:
-                    cash[2]-=money//5
+                    cash[2]-=1
+                elif cash[2]>=3:
+                    cash[2]-=3
                 else:
                     return False
 
