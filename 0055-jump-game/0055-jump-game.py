@@ -5,8 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         l = len(nums)
-        idx = 0
-        reach = 0
+        idx = reach = 0
         while(idx<l and reach>=idx):
             reach = max(reach,nums[idx]+idx)
             if reach>=l-1:
