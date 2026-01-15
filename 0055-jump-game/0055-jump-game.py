@@ -6,7 +6,7 @@ class Solution(object):
         """
         l = len(nums)
         idx = reach = 0
-        while(idx<l and reach>=idx):
+        while(reach>=idx):
             reach = max(reach,nums[idx]+idx)
             if reach>=l-1:
                 return True
