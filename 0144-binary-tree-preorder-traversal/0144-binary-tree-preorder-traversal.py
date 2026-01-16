@@ -11,15 +11,19 @@ class Solution(object):
         :rtype: List[int]
         """
         ans = []
+        if not root:
+            return []
+        stack = [root]
+    
+        while(stack):
+            node = stack.pop()
+            ans.append(node.val)
 
-        def traverse(root):
-            if root==None:
-                return
-            ans.append(root.val)
-            traverse(root.left)
-            traverse(root.right)
+            if node.right:
+                stack.append(node.right)
+            if node.left:
+                stack.append(node.left)
 
-        traverse(root)
         return ans
 
 
