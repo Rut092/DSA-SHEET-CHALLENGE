@@ -5,7 +5,7 @@ class Solution:
         for i in nums:
             if i==ele:
                 count+=1
-            elif count==0:
+            elif count==1:
                 ele = i
                 count = 1
             else:
