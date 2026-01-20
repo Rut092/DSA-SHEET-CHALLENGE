@@ -19,7 +19,6 @@ class Solution:
             nodeP = stack_p.pop()
             nodeQ = stack_q.pop()
             
-            print(nodeP,"---",nodeQ)
             if (nodeP.val!=nodeQ.val):
                 return False
 
