@@ -12,35 +12,25 @@ class Solution:
                 return True
             return False
         
-        p_inorder = []
-        q_inorder = []
+        stack_p = [p]
+        stack_q = [q]
 
-        stack = [p]
-        while(stack):
-            node = stack.pop()
-
-            if node:
-                stack.append(node.right)
-                stack.append(node.left)
+        while(stack_p and stack_q):
+            nodeP = stack_p.pop()
+            nodeQ = stack_q.pop()
             
-            if node:
-                p_inorder.append(node.val)
-            else:
-                p_inorder.append(None)
+            print(nodeP,"---",nodeQ)
+            if ((nodeP==None or nodeQ==None) and nodeP!=nodeQ) or (nodeP!=None and nodeQ!=None and nodeP.val!=nodeQ.val):
+                return False
+
+            if nodeP and nodeQ:
+                stack_p.append(nodeP.right)
+                stack_q.append(nodeQ.right)
+
+                stack_p.append(nodeP.left)
+                stack_q.append(nodeQ.left)
+    
         
-        stack = [q]
-        while(stack):
-            node = stack.pop()
-
-            if node:
-                stack.append(node.right)
-                stack.append(node.left)
-            
-            if node:
-                q_inorder.append(node.val)
-            else:
-                q_inorder.append(None)
-
-        return p_inorder==q_inorder
+        return True
         
 
