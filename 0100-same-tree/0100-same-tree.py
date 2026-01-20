@@ -12,30 +12,27 @@ class Solution:
                 return True
             return False
         
-        stack_p = [p]
-        stack_q = [q]
+        stack = [[p,q]]
 
-        while(stack_p and stack_q):
-            nodeP = stack_p.pop()
-            nodeQ = stack_q.pop()
-            
+        while(stack):
+            nodeP,nodeQ = stack.pop()
+    
             if (nodeP.val!=nodeQ.val):
                 return False
 
             if nodeP and nodeQ:
                 if nodeP.right and nodeQ.right:
-                    stack_p.append(nodeP.right)
-                    stack_q.append(nodeQ.right)
+                    stack.append([nodeP.right,nodeQ.right])
+
                 elif nodeP.right!=nodeQ.right:
                     return False
 
                 if nodeP.left and nodeQ.left:
-                    stack_p.append(nodeP.left)
-                    stack_q.append(nodeQ.left)
+                    stack.append([nodeP.left,nodeQ.left])
+
                 elif nodeP.left!=nodeQ.left:
                     return False
-    
-        
+
         return True
         
 
