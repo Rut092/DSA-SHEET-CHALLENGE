@@ -20,15 +20,21 @@ class Solution:
             nodeQ = stack_q.pop()
             
             print(nodeP,"---",nodeQ)
-            if ((nodeP==None or nodeQ==None) and nodeP!=nodeQ) or (nodeP!=None and nodeQ!=None and nodeP.val!=nodeQ.val):
+            if (nodeP.val!=nodeQ.val):
                 return False
 
             if nodeP and nodeQ:
-                stack_p.append(nodeP.right)
-                stack_q.append(nodeQ.right)
+                if nodeP.right and nodeQ.right:
+                    stack_p.append(nodeP.right)
+                    stack_q.append(nodeQ.right)
+                elif nodeP.right!=nodeQ.right:
+                    return False
 
-                stack_p.append(nodeP.left)
-                stack_q.append(nodeQ.left)
+                if nodeP.left and nodeQ.left:
+                    stack_p.append(nodeP.left)
+                    stack_q.append(nodeQ.left)
+                elif nodeP.left!=nodeQ.left:
+                    return False
     
         
         return True
