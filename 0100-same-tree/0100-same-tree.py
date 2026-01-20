@@ -12,8 +12,8 @@ class Solution:
                 return True
             return False
         
-        p_inorder = [p.val]
-        q_inorder = [q.val]
+        p_inorder = []
+        q_inorder = []
 
         stack = [p]
         while(stack):
