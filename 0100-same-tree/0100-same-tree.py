@@ -17,21 +17,13 @@ class Solution:
         while(stack):
             nodeP,nodeQ = stack.pop()
     
-            if (nodeP.val!=nodeQ.val):
+            if not nodeP and not nodeQ:
+                continue
+            if not nodeP or not nodeQ or nodeP.val!=nodeQ.val:
                 return False
-
-            if nodeP and nodeQ:
-                if nodeP.right and nodeQ.right:
-                    stack.append([nodeP.right,nodeQ.right])
-
-                elif nodeP.right!=nodeQ.right:
-                    return False
-
-                if nodeP.left and nodeQ.left:
-                    stack.append([nodeP.left,nodeQ.left])
-
-                elif nodeP.left!=nodeQ.left:
-                    return False
+            
+            stack.append([nodeP.right,nodeQ.right])
+            stack.append([nodeP.left,nodeQ.left])
 
         return True
         
