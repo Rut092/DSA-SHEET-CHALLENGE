@@ -14,18 +14,14 @@ class Solution:
         while(stack):
             node,value = stack.pop()
 
-            if node.left and node.right:
-                stack.append([node.right,value+1])
-                stack.append([node.left,value+1])
-
-            elif node.right:
+            if not node.left and not node.right:
+                depth = min(depth,value)
+    
+            if node.right:
                 stack.append([node.right,value+1])
             
-            elif node.left:
+            if node.left:
                 stack.append([node.left,value+1])
-
-            else:
-                depth = min(depth,value)
 
         return depth
 
