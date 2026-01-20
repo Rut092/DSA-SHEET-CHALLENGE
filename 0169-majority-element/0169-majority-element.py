@@ -1,14 +1,14 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        ele = nums[0] 
         count = 0
-        ele = None
-        for num in nums:
-            if count==0:
-                ele = num
-            
-            count+=1 if ele==num else -1
+        for i in nums:
+            if i==ele:
+                count+=1
+            elif count==0:
+                ele = i
+                count = 1
+            else:
+                count-=1
+
         return ele
