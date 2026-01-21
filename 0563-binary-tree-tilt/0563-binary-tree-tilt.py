@@ -9,6 +9,9 @@ class Solution:
         
         if not root:
             return 0
+
+        self.total = 0
+
         def simplify(root):
             left_sum = 0
             right_sum = 0
@@ -20,21 +23,9 @@ class Solution:
 
             original = root.val
             root.val = abs(left_sum - right_sum)
+            self.total+=root.val
 
             return left_sum + right_sum + original
 
         simplify(root)
-
-        stack = [root]
-        total = 0
-        while(stack):
-            node = stack.pop()
-            total+=node.val
-
-            if node.right:
-                stack.append(node.right)
-            if node.left:
-                stack.append(node.left)
-
-
-        return total
+        return self.total
