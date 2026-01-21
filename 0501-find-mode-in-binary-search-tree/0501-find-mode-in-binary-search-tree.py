@@ -7,13 +7,10 @@
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
 
-        stack = []
-        curr = root
+        stack,max_ele = [],[]
+        curr,ele = root,root.val
         ele = root.val
-        count = 0
-        max_ele = []
-        max_ele_count = 0
-
+        count,max_ele_count = 0,0
 
         while(stack or curr):
             while(curr):
@@ -25,21 +22,15 @@ class Solution:
             if curr.val==ele:
                 count+=1
             else:
-                if count>max_ele_count:
-                    max_ele_count = count
-                    max_ele = [ele]
-                
-                elif count==max_ele_count:
-                    max_ele.append(ele)
-                
                 ele=curr.val
                 count=1
+            if count>max_ele_count:
+                max_ele_count = count
+                max_ele = [ele]
+                
+            elif count==max_ele_count:
+                max_ele.append(ele)
             
             curr = curr.right
-
-        if count==max_ele_count:
-            max_ele.append(ele)
-        elif count>max_ele_count:
-            max_ele=[ele]
 
         return max_ele
