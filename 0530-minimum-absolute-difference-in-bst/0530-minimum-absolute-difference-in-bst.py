@@ -6,10 +6,11 @@
 #         self.right = right
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
-        
-        min_count = prev = float('inf')
+
+        min_count = float('inf')
         stack = []
         curr = root
+        prev = None
 
         while(curr or stack):
             while(curr):
@@ -17,7 +18,8 @@ class Solution:
                 curr = curr.left
 
             curr = stack.pop()
-            min_count = min(min_count,abs(prev-curr.val))
+            if prev!=None:
+                min_count = min(min_count,abs(prev-curr.val))
             prev = curr.val
 
             curr = curr.right
