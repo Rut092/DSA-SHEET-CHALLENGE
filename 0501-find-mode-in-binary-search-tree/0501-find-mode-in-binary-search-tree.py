@@ -12,7 +12,7 @@ class Solution:
         ele = root.val
         count,max_ele_count = 0,0
         max_ele = []
-
+        max_ele_count = 0
 
 
         while(stack or curr):
