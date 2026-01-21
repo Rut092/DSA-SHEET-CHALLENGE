@@ -7,7 +7,8 @@
 class Solution:
     def findTilt(self, root: Optional[TreeNode]) -> int:
         
-
+        if not root:
+            return 0
         def simplify(root):
             left_sum = 0
             right_sum = 0
