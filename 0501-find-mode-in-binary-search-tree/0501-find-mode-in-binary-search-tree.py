@@ -7,10 +7,13 @@
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
 
-        stack,max_ele = [],[]
-        curr,ele = root,root.val
+        stack = []
+        curr = root
         ele = root.val
         count,max_ele_count = 0,0
+        max_ele = []
+
+
 
         while(stack or curr):
             while(curr):
