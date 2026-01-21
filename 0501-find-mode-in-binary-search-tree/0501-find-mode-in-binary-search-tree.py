@@ -6,35 +6,40 @@
 #         self.right = right
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
-        sorted_arr = []
+
         stack = []
         curr = root
+        ele = root.val
+        count = 0
+        max_ele = []
+        max_ele_count = 0
+
+
         while(stack or curr):
             while(curr):
                 stack.append(curr)
                 curr=curr.left
 
             curr = stack.pop()
-            sorted_arr.append(curr.val)
-            curr = curr.right
-
-        max_count = -1
-        max_count_ele = []
-        count=1
-        ele = sorted_arr[0]
-        for i in range(1,len(sorted_arr)):
-            if sorted_arr[i-1]==sorted_arr[i]:
+        
+            if curr.val==ele:
                 count+=1
             else:
-                if count>max_count:
-                    max_count=count
-                    max_count_ele = [ele]
-                elif count==max_count:
-                    max_count_ele.append(ele)
-                ele = sorted_arr[i]
+                if count>max_ele_count:
+                    max_ele_count = count
+                    max_ele = [ele]
+                
+                elif count==max_ele_count:
+                    max_ele.append(ele)
+                
+                ele=curr.val
                 count=1
-        if count==max_count:
-            max_count_ele.append(ele)
-        elif count>max_count:
-            max_count_ele=[ele]
-        return max_count_ele
+            
+            curr = curr.right
+
+        if count==max_ele_count:
+            max_ele.append(ele)
+        elif count>max_ele_count:
+            max_ele=[ele]
+
+        return max_ele
