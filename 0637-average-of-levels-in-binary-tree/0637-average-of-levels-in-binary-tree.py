@@ -10,26 +10,21 @@ class Solution:
         if not root:
             return []
         res = []
-        depth = 0
-        count = 0
-        num = 0
-        q = deque([[root,0]])
+
+        q = deque([root])
+
         while(q):
-            node,level = q.popleft()
+            length = len(q)
+            level_sum = 0
 
-            if level == depth:
-                count+=node.val
-                num+=1
-            else:
-                depth+=1
-                res.append(count/num)
-                num=1
-                count=node.val
+            for i in range(length):
+                node = q.popleft()
 
-            if node.left:
-                q.append([node.left,level+1])
-            if node.right:
-                q.append([node.right,level+1])
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
 
-        res.append(count/num)
+            res.append(level_sum/length)
+            
         return res
