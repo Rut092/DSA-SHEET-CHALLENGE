@@ -26,12 +26,11 @@ class Solution:
             while(stack):
                 node,subnode = stack.pop()
 
+                if not node and not subnode:
+                    continue
                 if node and subnode and node.val==subnode.val:
                     stack.append([node.right,subnode.right])
                     stack.append([node.left,subnode.left])
-                    
-                if not node and not subnode:
-                    continue
 
                 elif not node or not subnode or node.val!=subnode.val:
                     return False
