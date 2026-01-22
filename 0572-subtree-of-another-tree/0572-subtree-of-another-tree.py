@@ -37,22 +37,6 @@ class Solution:
                 if node.left:
                     stack.append(node.left)
 
-        def isSame(root, subroot):
-            stack = [[root, subroot]]
-            while stack:
-                node, subnode = stack.pop()
-
-                if not node and not subnode:
-                    continue
-                if node and subnode and node.val == subnode.val:
-                    stack.append([node.right, subnode.right])
-                    stack.append([node.left, subnode.left])
-
-                elif not node or not subnode or node.val != subnode.val:
-                    return False
-
-            return True
-
         if isPossibleSubroot(root, subRoot):
             return True
         return False
