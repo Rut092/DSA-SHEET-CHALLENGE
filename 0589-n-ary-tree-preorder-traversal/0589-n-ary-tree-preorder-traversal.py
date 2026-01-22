@@ -15,8 +15,6 @@ class Solution:
         while(stack):
             node = stack.pop()
             res.append(node.val)
-
-            for subnode in range(len(node.children)-1,-1,-1):
-                stack.append(node.children[subnode])
+            stack.extend(reversed(node.children))
 
         return res
