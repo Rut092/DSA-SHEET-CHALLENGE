@@ -15,14 +15,16 @@ class Solution:
             node1,node2 = stack.pop()
             node1.val+=node2.val
 
-            if node1.right and node2.right:
-                stack.append([node1.right,node2.right])
-            elif node2.right:
-                node1.right=node2.right
+            if node2.right:
+                if node1.right:
+                    stack.append([node1.right,node2.right])
+                else:
+                    node1.right=node2.right
             
-            if node1.left and node2.left:
-                stack.append([node1.left,node2.left])
-            elif node2.left:
-                node1.left = node2.left
+            if node2.left:
+                if node1.left:
+                    stack.append([node1.left,node2.left])
+                else:
+                    node1.left = node2.left
         
         return root1
