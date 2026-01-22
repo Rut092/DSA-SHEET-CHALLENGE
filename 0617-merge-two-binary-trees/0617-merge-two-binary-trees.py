@@ -6,8 +6,7 @@
 #         self.right = right
 class Solution:
     def mergeTrees(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> Optional[TreeNode]:
-        if not root1 or not root2:
-            return root1 or root2
+
         stack = [[root1,root2,None,-1]]
 
         while(stack):
@@ -26,5 +25,7 @@ class Solution:
                     prev.right=node2
                 else:
                     prev.left=node2
+            elif node2:
+                return node2
         
         return root1
