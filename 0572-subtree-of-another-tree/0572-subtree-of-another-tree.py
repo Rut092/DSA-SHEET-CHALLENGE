@@ -16,7 +16,6 @@ class Solution:
 
                 if node.val==subRoot.val:
                     starting_points.append(node)
-
                 if node.right:
                     stack.append(node.right)
                 if node.left:
