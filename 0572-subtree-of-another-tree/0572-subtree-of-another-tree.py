@@ -6,37 +6,58 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if not root:
-            return False
-        def isSame(root, subroot):
-            stack = [[root, subroot]]
-            while stack:
-                node, subnode = stack.pop()
+        paths = []
 
-                if not node and not subnode:
-                    continue
-                if node and subnode and node.val == subnode.val:
-                    stack.append([node.right, subnode.right])
-                    stack.append([node.left, subnode.left])
+        def getPaths(root):
 
-                elif not node or not subnode or node.val != subnode.val:
-                    return False
-
-            return True
-
-        def isPossibleSubroot(root, subRoot):
+            arr = []
             stack = [root]
-            while stack:
+            while(stack):
                 node = stack.pop()
-
-                if node.val == subRoot.val and isSame(node,subRoot):
-                    return True
-
-                if node.right:
+                if node:
+                    arr.append(str(node.val))
                     stack.append(node.right)
-                if node.left:
                     stack.append(node.left)
+                else:
+                    arr.append('+')
 
-        if isPossibleSubroot(root, subRoot):
-            return True
+            paths.append(arr)
+
+        getPaths(root)
+        getPaths(subRoot)
+
+        haystack = paths[0]
+        needle = paths[1]
+        n_len,h_len=len(needle),len(haystack)
+        lps = [0]*n_len
+
+        prevLPS,i=0,1
+        while(i<n_len):
+            if needle[i]==needle[prevLPS]:
+                lps[i]=prevLPS + 1
+                i+=1
+                prevLPS+=1
+
+            elif prevLPS==0:
+                lps[i]=0
+                i+=1
+            else:
+                prevLPS = lps[prevLPS-1]
+        
+        i,j=0,0
+
+        while(i<h_len):
+            if haystack[i]==needle[j]:
+                i+=1
+                j+=1
+            else:
+                if j==0:
+                    i+=1
+                else:
+                    j=lps[j-1]
+
+            if j==n_len:
+                return True
+
         return False
+
