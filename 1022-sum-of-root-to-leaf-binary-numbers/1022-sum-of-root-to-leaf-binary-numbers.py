@@ -10,16 +10,16 @@ class Solution:
             return 0
         total = 0
         stack=[]
-        curr = [root,""]
+        curr = [root,0,0]
         while(curr[0] or stack):
             while(curr[0]):
-                string = curr[1]+str(curr[0].val)
-                stack.append([curr[0],string])
-                curr = [curr[0].left,string]
+                data = curr[1]<<1 | curr[0].val
+                stack.append([curr[0],data])
+                curr = [curr[0].left,data]
 
             curr = stack.pop()
             if not curr[0].left and not curr[0].right:
-                total+=int(curr[1],2)
+                total+=curr[1]
 
             curr = [curr[0].right,curr[1]]
 
