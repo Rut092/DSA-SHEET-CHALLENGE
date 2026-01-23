@@ -9,19 +9,18 @@ class Solution:
         if not root:
             return 0
         total = 0
-        stack=[]
-        curr = [root,0,0]
-        while(curr[0] or stack):
-            while(curr[0]):
-                data = curr[1]<<1 | curr[0].val
-                stack.append([curr[0],data])
-                curr = [curr[0].left,data]
+        stack=[[root,0]]
 
-            curr = stack.pop()
-            if not curr[0].left and not curr[0].right:
-                total+=curr[1]
+        while(stack):
+            node,value = stack.pop()
+            bit_val = value<<1 | node.val
 
-            curr = [curr[0].right,curr[1]]
+            if not node.left and not node.right:
+                total+=bit_val
+            if node.right:
+                stack.append([node.right,bit_val])
+            if node.left:
+                stack.append([node.left,bit_val])
 
         return total
 
