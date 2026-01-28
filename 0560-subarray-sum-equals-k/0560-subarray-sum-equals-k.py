@@ -1,7 +1,6 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        
-        length = len(nums)
+
         recall = {0:1}
         total = count = 0
 
