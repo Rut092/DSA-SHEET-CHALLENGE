@@ -3,8 +3,8 @@ class Solution:
         count=0
         length = len(nums)
         recall = {}
-        for num in range(1,length):
-            nums[num]+=nums[num-1]
+        for i in range(1,length):
+            nums[i]+=nums[i-1]
 
         for num in nums:
             if num==k:
