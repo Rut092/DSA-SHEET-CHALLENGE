@@ -8,13 +8,11 @@ class Solution:
             total.append(total[-1]+nums[num])
 
         for num in total:
-            
             if num==k:
                 count+=1
-
             if num-k in recall:
                 count+=recall[num-k]
-
+                
             if num not in recall:
                 recall[num]=1
             else:
