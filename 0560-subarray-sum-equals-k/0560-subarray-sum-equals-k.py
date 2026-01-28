@@ -2,17 +2,14 @@ class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         count=0
         length = len(nums)
-        recall = {}
-        for i in range(1,length):
-            nums[i]+=nums[i-1]
+        recall = {0:1}
+        total = 0
 
         for num in nums:
-            if num==k:
-                count+=1
-            if num-k in recall:
-                count+=recall[num-k]
-
-            recall[num]=recall.get(num,0)+1
+            total+=num
+            if total-k in recall:
+                count+=recall[total-k]
+            recall[total]=recall.get(total,0)+1
         
         return count
 
