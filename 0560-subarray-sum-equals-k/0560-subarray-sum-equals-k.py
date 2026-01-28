@@ -12,10 +12,7 @@ class Solution:
             if num-k in recall:
                 count+=recall[num-k]
 
-            if num not in recall:
-                recall[num]=1
-            else:
-                recall[num]+=1
+            recall[num]=recall.get(num,0)+1
         
         return count
 
