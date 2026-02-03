@@ -3,22 +3,26 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        zeros = []
-        h = len(matrix)
-        v = len(matrix[0])
-        rows = set()
-        cols = set()
-        for i in range(h):
-            for j in range(v):
-                if matrix[i][j]==0:
-                    rows.add(i)
-                    cols.add(j)
+        rows,cols = len(matrix),len(matrix[0])
+        is_first_col = False
         
-        for i in rows:
-            for j in range(v):
-                matrix[i][j]=0
-        for j in cols:
-            for i in range(h):
-                matrix[i][j]=0
+        for row in range(rows):
+            if matrix[row][0]==0:
+                is_first_col = True
+            for col in range(1,cols):
+                if matrix[row][col]==0:
+                    matrix[row][0]=0
+                    matrix[0][col]=0
+                
+        for row in range(rows-1,-1,-1):
+            for col in range(cols-1,0,-1):
+                if matrix[row][0]==0 or matrix[0][col]==0:
+                    matrix[row][col]=0
+            if is_first_col:
+                matrix[row][0]=0
+
+
+
+
 
         
