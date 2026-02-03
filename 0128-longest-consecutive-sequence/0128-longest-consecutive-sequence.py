@@ -7,7 +7,8 @@ class Solution:
             count=1
             if i-1 not in bucket:
                 num = i+1
-                while(num in bucket):
+                while(bucket.get(num,0)):
+                    bucket[num]=0
                     count+=1
                     num+=1
                 bucket[i]=count
