@@ -7,11 +7,9 @@ class Solution:
             count=1
             if i-1 not in bucket:
                 num = i+1
-                while(bucket.get(num,0)):
-                    bucket[num]=0
+                while(num in bucket):
                     count+=1
                     num+=1
-                bucket[i]=count
             max_count = max(max_count,count)
 
         return max_count
