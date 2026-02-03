@@ -4,8 +4,8 @@ class Solution:
         bucket = {i:1 for i in nums}
         max_count = 0
         for i in bucket:
-            count=1
             if i-1 not in bucket:
+                count=1
                 num = i+1
                 while(num in bucket):
                     count+=1
