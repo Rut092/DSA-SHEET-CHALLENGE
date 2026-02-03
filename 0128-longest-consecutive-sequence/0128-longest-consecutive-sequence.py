@@ -10,7 +10,7 @@ class Solution:
                 while(num in bucket):
                     count+=1
                     num+=1
-            max_count = max(max_count,count)
+                max_count = max(max_count,count)
 
         return max_count
         
