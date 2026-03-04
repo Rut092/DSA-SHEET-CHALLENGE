@@ -24,12 +24,14 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
@@ -49,4 +51,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
