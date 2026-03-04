@@ -3,27 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        i,j,k =0,0,len(nums)-1
-        while(j<=k):
-            if nums[j]==0:
-                nums[j],nums[i]=nums[i],nums[j]
-                i+=1
-            elif nums[j]==2:
-                if nums[k]!=2:
-                    nums[j],nums[k]=nums[k],nums[j]
-                k-=1
-                j-=1
-
-            j+=1
-
-        # length = len(nums)
-        # i=0
-        # for j in range(length):
-        #     if nums[j]==0:
-        #         nums[i],nums[j]=nums[j],nums[i]
-        #         i+=1
-        # for j in range(i,length):
-        #     if nums[j]==1:
-        #         nums[i],nums[j]=nums[j],nums[i]
-        #         i+=1
-                
+        start,mid,end=0,0,len(nums)-1
+        while(mid<=end):
+            if nums[mid]==2:
+                nums[end],nums[mid]=nums[mid],nums[end]
+                end-=1
+            elif nums[mid]==1 or start>mid:
+                mid+=1
+            else:
+                nums[start],nums[mid]=nums[mid],nums[start]
+                start+=1
+    
+            # print(nums,start,mid,end)
+        
