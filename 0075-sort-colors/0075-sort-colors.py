@@ -8,11 +8,10 @@ class Solution:
             if nums[mid]==2:
                 nums[end],nums[mid]=nums[mid],nums[end]
                 end-=1
-            elif nums[mid]==1 or start>mid:
+            elif nums[mid]==1:
                 mid+=1
             else:
                 nums[start],nums[mid]=nums[mid],nums[start]
                 start+=1
-    
-            # print(nums,start,mid,end)
+                mid+=1
         
