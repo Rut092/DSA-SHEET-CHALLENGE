@@ -1,14 +1,18 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-
-        recall = {0:1}
-        total = count = 0
+        book = {0:1}
+        total = curr_sum = 0
         for num in nums:
-            total+=num
-            if total-k in recall:
-                count+=recall[total-k]
-            recall[total]= recall.get(total,0)+1
-        return count
+            curr_sum+=num
+            if curr_sum-k in book:
+                total+=book[curr_sum-k]
+            if curr_sum in book:
+                book[curr_sum]+=1
+            else:
+                book[curr_sum]=1
+        
+        return total
+        
 
 
                 
