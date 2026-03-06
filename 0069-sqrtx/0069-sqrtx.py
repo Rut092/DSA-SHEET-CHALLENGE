@@ -11,7 +11,9 @@ class Solution:
             elif curr_sq<x:
                 prev = curr
                 curr*=2
-            else:
+            elif curr_sq>x:
                 curr=(prev+curr)//2
+            else:
+                return prev
 
         return prev
