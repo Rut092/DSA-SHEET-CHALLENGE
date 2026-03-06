@@ -75,6 +75,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -96,4 +97,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
