@@ -5,7 +5,7 @@ class Solution:
         while(curr>prev):
             curr_sq = curr*curr
             prev_sq = prev*prev
-            pri
+            
             if curr_sq==x:
                 return curr
             elif curr_sq<x:
