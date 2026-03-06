@@ -33,6 +33,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +86,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0441-arranging-coins](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0441-arranging-coins/) | Easy |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
