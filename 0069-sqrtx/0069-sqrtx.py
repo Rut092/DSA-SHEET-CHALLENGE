@@ -1,17 +1,18 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-        prev=0
-        curr=1
-        while(curr>prev):
-            curr_sq = curr*curr
-            prev_sq = prev*prev
-        
-            if curr_sq==x:
-                return curr
-            elif curr_sq<x:
-                prev = curr
-                curr*=2
+        if x<2:
+            return x
+        low,high = 0,x//2
+        ans=0
+        while(low<=high):
+            mid = (low+high)//2
+            sq_term = mid*mid
+            if sq_term==x:
+                return mid
+            elif sq_term<x:
+                ans = mid
+                low = mid+1
             else:
-                curr=(prev+curr)//2
+                high = mid-1
 
-        return prev
+        return ans
