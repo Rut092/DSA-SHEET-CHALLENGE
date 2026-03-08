@@ -28,7 +28,7 @@ class Solution(object):
             if len(heap)>k:
                 heapq.heappop(heap)
         
-        for i in range(k):
+        while heap:
             res.append(-heapq.heappop(heap)[1])
         
         return res[::-1]
