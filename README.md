@@ -35,6 +35,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +64,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +95,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
