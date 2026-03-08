@@ -24,9 +24,11 @@ class Solution(object):
             return ans
 
         for i in range(len(mat)):
-            heapq.heappush(heap,[findInd(mat[i],length),i])
+            heapq.heappush(heap,[-findInd(mat[i],length),-i])
+            if len(heap)>k:
+                heapq.heappop(heap)
         
         for i in range(k):
-            res.append(heapq.heappop(heap)[1])
+            res.append(-heapq.heappop(heap)[1])
         
-        return res
+        return res[::-1]
