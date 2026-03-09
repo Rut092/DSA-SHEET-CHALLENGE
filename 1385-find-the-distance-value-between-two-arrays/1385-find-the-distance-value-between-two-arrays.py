@@ -18,10 +18,9 @@ class Solution(object):
                     return True
                 elif ele-d>arr2[mid]:
                     low = mid+1
-                elif arr2[mid]>ele+d:
-                    high = mid-1
                 else:
-                    return False   
+                    high = mid-1
+ 
             return False
 
         for i in range(l1):
