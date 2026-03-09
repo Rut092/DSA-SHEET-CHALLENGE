@@ -37,6 +37,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +102,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
