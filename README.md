@@ -41,6 +41,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
