@@ -1,15 +1,13 @@
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
-        l = len(nums2)
-        for num in nums1:
-            low,high = 0,l-1
-            while(low<=high):
-                mid = (low+high)//2
-                if nums2[mid]==num:
-                    return num
-                elif nums2[mid]<num:
-                    low = mid+1
-                else:
-                    high = mid-1
+        i = j = 0
+        l1,l2 = len(nums1)-1,len(nums2)-1
+        while(i<l1 and j<l2):
+            if nums1[i]==nums2[j]:
+                return nums1[i]
+            elif nums1[i]>nums2[j]:
+                j+=1
+            else:
+                i+=1
         return -1
         
