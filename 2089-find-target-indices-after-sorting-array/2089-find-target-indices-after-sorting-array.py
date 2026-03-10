@@ -1,7 +1,6 @@
 class Solution:
     def targetIndices(self, nums: List[int], target: int) -> List[int]:
         smaller = equal = 0
-        ans = []
         for num in nums:
             if num==target:
                 equal+=1
