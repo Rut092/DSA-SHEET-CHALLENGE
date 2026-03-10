@@ -7,8 +7,5 @@ class Solution:
                 equal+=1
             elif num<target:
                 smaller+=1
-        for i in range(smaller,smaller+equal):
-            ans.append(i)
-
-        return ans
+        return list(range(smaller, smaller + equal))
         
