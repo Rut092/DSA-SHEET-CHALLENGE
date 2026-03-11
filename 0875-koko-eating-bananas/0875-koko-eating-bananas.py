@@ -11,8 +11,10 @@ class Solution:
                 value+=(pile//speed)
                 if pile%speed>0:
                     value+=1
-
-            if value>h:
+                    
+            if value==h:
+                return speed
+            elif value>h:
                 low = speed+1
             else:
                 ans = speed
