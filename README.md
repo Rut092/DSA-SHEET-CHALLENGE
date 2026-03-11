@@ -29,6 +29,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0162-find-peak-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0162-find-peak-element/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -107,6 +108,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
