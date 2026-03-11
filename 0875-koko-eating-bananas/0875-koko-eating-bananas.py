@@ -8,13 +8,9 @@ class Solution:
 
             value = 0
             for pile in piles:
-                value+=(pile//speed)
-                if pile%speed>0:
-                    value+=1
-                    
-            if value==h:
-                return speed
-            elif value>h:
+                value+=(pile//speed + int(pile%speed>0))
+    
+            if value>h:
                 low = speed+1
             else:
                 ans = speed
