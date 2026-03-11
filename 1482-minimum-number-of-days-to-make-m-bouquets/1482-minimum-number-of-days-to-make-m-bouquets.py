@@ -1,7 +1,7 @@
 class Solution:
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
         l = len(bloomDay)
-        low,high = 0,max(bloomDay)
+        low,high = min(bloomDay),max(bloomDay)
         ans = -1
         while(low<=high):
             mid = (low+high)//2
