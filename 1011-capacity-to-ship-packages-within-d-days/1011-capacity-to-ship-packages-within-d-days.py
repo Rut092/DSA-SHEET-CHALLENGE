@@ -18,7 +18,7 @@ class Solution:
         curr = 0
         for weight in weights:
             if weight>capacity:
-                return float('inf')
+                return 2**32
             elif curr+weight-capacity<=0:
                 curr+=weight
             else:
