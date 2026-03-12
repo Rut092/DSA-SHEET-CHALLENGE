@@ -19,7 +19,7 @@ class Solution:
         for weight in weights:
             if weight>capacity:
                 return 2**32
-            elif curr+weight<capacity:
+            elif curr+weight<=capacity:
                 curr+=weight
             else:
                 total+=1
