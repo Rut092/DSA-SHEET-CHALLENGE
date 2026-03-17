@@ -1,23 +1,19 @@
 class Solution:
     def findPeakGrid(self, mat: List[List[int]]) -> List[int]:
-        x,y=0,0
-        row,col = len(mat),len(mat[0])
-        while(True):
-            left = right= top = bottom = True
-            if x-1>=0 and mat[x-1][y]>mat[x][y]: top = False
-            if x+1<row and mat[x+1][y]>mat[x][y]: bottom = False
-            if y-1>=0 and mat[x][y-1]>mat[x][y]: left = False
-            if y+1<col and mat[x][y+1]>mat[x][y]: right = False
+        rows,cols = len(mat),len(mat[0])
+        for row in range(rows):
+            low,high = 0,cols-1
+            while(low<high):
+                col = (low+high)>>1
+    
+                if mat[row][col]<mat[row][col+1]:
+                    low = col+1
+                else:
+                    high = col
+            
+            top = bottom = True
 
-            if left and right and top and bottom:
-                return [x,y]
+            if row-1>=0 and mat[row-1][high]>mat[row][high]: top=False
+            if row+1<rows and mat[row+1][high]>mat[row][high]:bottom=False
 
-            if not bottom:
-                x+=1
-            elif not top:
-                x-=1
-            elif not right:
-                y+=1
-            elif not left:
-                y-=1
-        
+            if top and bottom: return [row,high]
