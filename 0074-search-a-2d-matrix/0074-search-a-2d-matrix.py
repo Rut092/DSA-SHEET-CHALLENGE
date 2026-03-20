@@ -6,12 +6,12 @@ class Solution(object):
         :rtype: bool
         """
         rows,cols = len(matrix),len(matrix[0])
-        low,high = 0,rows*cols
+        low,high = 0,rows*cols-1
 
         while(low<=high):
             mid = (low+high)//2
             row,col = (mid//cols),(mid%(cols))
-    
+            
             if matrix[row][col]==target:
                 return True
             elif matrix[row][col]>target:
