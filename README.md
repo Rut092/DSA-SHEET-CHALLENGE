@@ -54,6 +54,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +197,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 <!---LeetCode Topics End-->
