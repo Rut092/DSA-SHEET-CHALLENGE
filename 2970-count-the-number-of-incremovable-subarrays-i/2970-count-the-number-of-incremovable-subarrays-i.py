@@ -12,17 +12,20 @@ class Solution(object):
             if nums[i-1]>=nums[i]:
                 valid_from_left = i
                 break
+
+        if valid_from_left == l:
+            return (l*(l+1))//2
+
         for i in range(l-2,-1,-1):
             if nums[i+1]<=nums[i]:
-                valid_from_right = i
+                valid_from_right = i+1
                 break
         
-        count = 0
-        print(valid_from_left,valid_from_right)
-        for i in range(l):
-            for j in range(i,l):
-                is_bridge = True
-                if i>0 and j<l-1 and nums[i-1]>=nums[j+1]:
-                    is_bridge = False
-                count+=((i<=valid_from_left) and (j>=valid_from_right) and (is_bridge))
+        count = valid_from_left + 1 + l - valid_from_right
+
+        for i in range(valid_from_left):
+            while valid_from_right<l and nums[i]>=nums[valid_from_right]:
+                valid_from_right+=1
+            count+=(l-valid_from_right)
+
         return count
