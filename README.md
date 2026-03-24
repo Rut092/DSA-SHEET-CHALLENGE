@@ -56,6 +56,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0054-spiral-matrix/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +181,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
