@@ -8,7 +8,7 @@ class Solution(object):
         low,high = 0,len(nums)-1
         while(low<=high):
             mid = (low+high)//2
-            print(mid)
+            
             if nums[mid]==target:
                 return True
 
