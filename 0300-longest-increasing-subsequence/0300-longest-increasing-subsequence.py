@@ -1,0 +1,30 @@
+class Solution(object):
+    def lengthOfLIS(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        l = len(nums)-1
+        res = []
+        for idx in range(len(nums)):
+            curr_ele = nums[idx]
+            low,high = 0,len(res)-1
+            while(low<=high):
+                mid = (low+high)//2
+                if res[mid]==curr_ele:
+                    low=mid
+                    break
+                elif res[mid]>curr_ele:
+                    high = mid-1
+                else:
+                    low = mid+1
+            
+            if low<len(res):
+                res[low]=curr_ele
+            else:
+                res.append(curr_ele)
+
+        return len(res)
+
+
+        
