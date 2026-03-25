@@ -18,9 +18,9 @@ class Solution(object):
                     low = mid+1
             
             if low<len(res):
-                res[low]=curr_ele
+                res[low]=nums[idx]
             else:
-                res.append(curr_ele)
+                res.append(nums[idx])
 
         return len(res)
 
