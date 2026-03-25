@@ -23,10 +23,8 @@ class Solution(object):
             nums[i]+=nums[i-1]
 
         nums = [0]+nums
-
-        print(nums)
         ans = float('inf')
-        
+
         for i in range(l+1):
             need = nums[i]+target
             low,high = i+1,l
