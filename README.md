@@ -37,6 +37,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0275-h-index-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
@@ -138,6 +139,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
