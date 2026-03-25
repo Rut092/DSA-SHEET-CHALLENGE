@@ -4,17 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        l = len(nums)-1
         res = []
         for idx in range(len(nums)):
             curr_ele = nums[idx]
             low,high = 0,len(res)-1
             while(low<=high):
                 mid = (low+high)//2
-                if res[mid]==curr_ele:
+                if res[mid]==nums[idx]:
                     low=mid
                     break
-                elif res[mid]>curr_ele:
+                elif res[mid]>nums[idx]:
                     high = mid-1
                 else:
                     low = mid+1
