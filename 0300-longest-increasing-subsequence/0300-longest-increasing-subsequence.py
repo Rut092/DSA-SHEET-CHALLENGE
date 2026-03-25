@@ -6,7 +6,6 @@ class Solution(object):
         """
         res = []
         for idx in range(len(nums)):
-            curr_ele = nums[idx]
             low,high = 0,len(res)-1
             while(low<=high):
                 mid = (low+high)//2
