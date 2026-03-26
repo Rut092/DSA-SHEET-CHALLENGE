@@ -11,7 +11,6 @@ class Solution(object):
         while(low<=high):
             mid = (low+high)//2
             count = self.countKth(matrix,mid,n)
-            print(mid,count)
 
             if count>=k:
                 ans = mid
