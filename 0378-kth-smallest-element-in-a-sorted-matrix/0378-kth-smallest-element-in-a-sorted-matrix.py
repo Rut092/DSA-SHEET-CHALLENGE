@@ -20,18 +20,27 @@ class Solution(object):
                 low = mid+1
 
         return ans
-        
-    def countKth(self,matrix,k,n):
-        ans = 0
-        for row in matrix:
-            low,high = 0,n-1
-            while(low<=high):
-                mid = (low+high)//2
 
-                if row[mid]<=k:
-                    low = mid+1
-                else:
-                    high = mid-1
-            ans+=(high+1)
+    def countKth(self,matrix,mid,n):
+        count = 0
+        row,col = 0,n-1
+        while(row<n and col>=0):
+            if matrix[row][col]<=mid:
+                count+=(col+1)
+                row+=1
+            else:
+                col-=1
+
+        return count
+        # for row in matrix:
+        #     low,high = 0,n-1
+        #     while(low<=high):
+        #         mid = (low+high)//2
+
+        #         if row[mid]<=k:
+        #             low = mid+1
+        #         else:
+        #             high = mid-1
+        #     ans+=(high+1)
 
         return ans
