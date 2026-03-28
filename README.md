@@ -85,6 +85,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
@@ -229,6 +230,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Enumeration
@@ -250,6 +252,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
