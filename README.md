@@ -98,6 +98,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -271,4 +272,5 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0328-odd-even-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
