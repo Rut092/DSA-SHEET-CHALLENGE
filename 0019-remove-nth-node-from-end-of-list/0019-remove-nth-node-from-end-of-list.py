@@ -20,11 +20,9 @@ class Solution(object):
         if count==0: return head.next
 
         ptr = head
-        count-=1
-        while(count>0):
+        while(count>1):
             count-=1
             ptr = ptr.next
-
         ptr.next = ptr.next.next if ptr.next.next else None
         
         return head
