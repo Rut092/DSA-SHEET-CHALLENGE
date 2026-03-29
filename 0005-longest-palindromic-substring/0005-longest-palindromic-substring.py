@@ -9,11 +9,11 @@ class Solution(object):
         for i in range(l):
             for mini,maxi in [[i,i],[i,i+1]]:
                 while(mini>=0 and maxi<l):
-                    if s[maxi]==s[mini]:
-                        if high-low<maxi-mini:
-                            high,low = maxi,mini
-                    else:
+                    if s[maxi]!=s[mini]:
                         break
+                    if high-low<maxi-mini:
+                        high,low = maxi,mini
+                    
                     maxi+=1
                     mini-=1
         
