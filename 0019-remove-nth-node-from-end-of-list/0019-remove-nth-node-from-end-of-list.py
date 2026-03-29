@@ -12,17 +12,20 @@ class Solution(object):
         """
         count = 0
         ptr = head
+        while(n):
+            ptr = ptr.next
+            n-=1
+
+        node = head
+        prev = None
         while(ptr):
-            count+=1
             ptr = ptr.next
-        count-=n
-
-        if count==0: return head.next
-
-        ptr = head
-        while(count>1):
-            count-=1
-            ptr = ptr.next
-        ptr.next = ptr.next.next if ptr.next.next else None
+            prev = node
+            node = node.next
         
-        return head
+        if prev:
+            prev.next = node.next
+            return head
+        if node:
+            return head.next
+        return None
