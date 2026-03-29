@@ -9,27 +9,21 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if not head or not head.next : return head
+
         odd_head,even_head = head,head.next
-        odd,even = odd_head,even_head
+        even = even_head
 
-        odd_flag = 1
-        curr = head.next.next
-        while(curr):
-            if odd_flag:
-                odd_flag = 0
-                odd.next = curr
-                odd = odd.next
-            else:
-                odd_flag = 1
-                even.next = curr
-                even = even.next
+        while(even_head and even_head.next):
 
-            curr = curr.next
-            
-        even.next = None
-        odd.next = even_head
-        return odd_head
+            odd_head.next = even_head.next
+            odd_head = odd_head.next
+
+            even_head.next = odd_head.next
+            even_head = even_head.next
+
+        odd_head.next = even
+
+        return head
 
 
 
