@@ -4,20 +4,27 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        output =[]
-        for i in range(len(s)):
-            for j in range(i,len(s)):
-                low,high=i,j
-                isTrue = True
-                if j-i+1<=len(output):
-                    continue
-                while(low<=high):
-                    if s[low]!=s[high]:
-                        isTrue = False
-                        break
-                    low+=1
-                    high-=1
-                if isTrue and j-i+1>len(output):
-                    output = s[i:j+1]
+        l = len(s)
+        low,high=0,0
+        for i in range(l):
+            mini,maxi=i,i
+            while(mini>=0 and maxi<l):
+                if s[maxi]==s[mini]:
+                    if high-low<maxi-mini:
+                        high,low = maxi,mini
+                else:
+                    break
+                maxi+=1
+                mini-=1
 
-        return output
+            mini,maxi=i,i+1
+            while(mini>=0 and maxi<l):
+                if s[maxi]==s[mini]:
+                    if high-low<maxi-mini:
+                        high,low = maxi,mini
+                else:
+                    break
+                maxi+=1
+                mini-=1
+        
+        return s[low:high+1]
