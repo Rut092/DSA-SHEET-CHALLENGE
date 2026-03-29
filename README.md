@@ -74,6 +74,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
