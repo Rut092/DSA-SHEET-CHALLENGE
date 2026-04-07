@@ -41,18 +41,11 @@ class Solution:
                 left = left.next
                 
             merged = merged.next
-            merged.next = None
 
-        while(left):
+        if (left):
             merged.next = left
-            left = left.next
-            merged = merged.next
-            merged.next = None
 
-        while(right):
+        if(right):
             merged.next = right
-            right = right.next
-            merged = merged.next
-            merged.next = None
 
         return Dummy.next
