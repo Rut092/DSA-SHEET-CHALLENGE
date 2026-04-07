@@ -93,6 +93,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -107,6 +108,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- | ------- |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
@@ -189,6 +191,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
@@ -206,6 +209,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -271,6 +275,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
