@@ -70,6 +70,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -279,6 +280,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0025-reverse-nodes-in-k-group](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0328-odd-even-linked-list/) | Medium |
