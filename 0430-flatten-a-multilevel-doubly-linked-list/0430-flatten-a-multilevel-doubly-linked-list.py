@@ -10,32 +10,25 @@ class Node:
 
 class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if not head: return 
+        if not head: return  None
         stack = [head]
-        dummy = ListNode(-1)
-        dummy.next = head
-        prev = dummy
+        prev = None
 
         while(stack):
             curr = stack.pop()
-            prev.next = curr
-            curr.prev = prev
 
-            while(curr):
-                prev = curr
-                if curr.child:
-                    if curr.next:
-                        stack.append(curr.next)
-                    curr.next = curr.child
-                    curr = curr.child
-                    curr.prev = prev
-                    prev.child = None
+            if prev:
+                prev.next = curr
+                curr.prev = prev
+                
+            if curr.next:
+                stack.append(curr.next)
+
+            if curr.child:
+                stack.append(curr.child)
+                curr.child = None
                     
-                else:
-                    curr = curr.next
-
-        dummy.next = None
-        head.prev = None
+            prev = curr
 
         return head
             
