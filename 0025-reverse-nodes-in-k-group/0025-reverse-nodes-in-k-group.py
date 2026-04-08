@@ -31,7 +31,6 @@ class Solution:
             if new_head == None: new_head = prev
             link.next = curr
             link_end.next = prev
-            print(link.val)
             prev = None
 
         link.next = curr
