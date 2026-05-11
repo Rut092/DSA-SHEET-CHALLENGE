@@ -225,6 +225,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0441-arranging-coins/) | Easy |
+| [1922-count-good-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1922-count-good-numbers/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [1922-count-good-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1922-count-good-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
