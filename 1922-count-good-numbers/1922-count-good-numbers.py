@@ -5,7 +5,6 @@ class Solution:
             return 5
 
         def pow(num):
-            print(num)
             if num==1:
                 return 20
             elif num%2==0:
@@ -15,7 +14,6 @@ class Solution:
                 return (20*pow(num-1))%MOD
         
         val = pow(n//2)
-        
         if n%2==0:
             return val
         else:
