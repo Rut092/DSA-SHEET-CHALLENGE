@@ -4,22 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        # arr = []
-        # for i in range(len(nums)-1):
-        #     if nums[i]>nums[i+1]:
-        #         for j in range(i+1,len(nums)-1):
-        #             if nums[j]>nums[j+1]:
-        #                 return False
-                
-        #         if nums[-1]>nums[0]:
-        #             return False
-        #         break
+        brk_pt = 0
+        for i in range(1,len(nums)):
+            if nums[i-1]>nums[i]:
+                brk_pt+=1
 
-        # return True
-        drop = 0
-        for i in range(len(nums)):
-            if nums[i]>(nums[(i+1)%len(nums)]):
-                drop+=1
-            if drop>1:
-                return False
-        return True
+        if len(nums)>1:
+            if nums[0]<nums[-1]: brk_pt+=1
+
+        return False if brk_pt>1 else True
