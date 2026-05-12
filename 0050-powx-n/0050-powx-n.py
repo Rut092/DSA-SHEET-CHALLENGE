@@ -1,17 +1,33 @@
-class Solution:
-    def myPow(self, x: float, n: int) -> float:
+class Solution(object):
+    def myPow(self, x, n):
+        """
+        :type x: float
+        :type n: int
+        :rtype: float
+        """
+        if n<0: 
+            x = 1/x
+            n = -n
 
+        return self.calcIter(x,n)
+
+    def calcRec(self,x,n):
         if n==0:
             return 1
-        x = x if n>0 else 1/x
-        value = 1
-        n= n if n>0 else -n
+        curr = self.calcRec(x,n//2)
+        if n%2==0: return curr*curr
+        else: return curr*curr*x
+
+    def calcIter(self,x,n):
         
+        val = 1
         while(n):
-            if n%2==0:
-                x*=x
-                n//=2
-            else:
-                value*=x
+            if n%2==1:
+                val = val*x
                 n-=1
-        return value
+            x*=x
+            n//=2
+        return val
+
+
+        
