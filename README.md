@@ -21,8 +21,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
@@ -66,8 +66,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -79,15 +79,15 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -107,8 +107,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
@@ -124,12 +124,12 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -139,19 +139,19 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0054-spiral-matrix/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -191,93 +191,94 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0441-arranging-coins/) | Easy |
 | [1922-count-good-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1922-count-good-numbers/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0061-rotate-list/) | Medium |
@@ -289,16 +290,17 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1922-count-good-numbers/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
