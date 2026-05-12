@@ -58,6 +58,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -227,6 +228,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0367-valid-perfect-square](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0441-arranging-coins/) | Easy |
 | [1922-count-good-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1922-count-good-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Interactive
 |  |
 | ------- |
@@ -303,4 +305,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
