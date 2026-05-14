@@ -15,18 +15,16 @@ class Solution(object):
             slow = slow.next
 
         prev = None
-        curr = head
-        while(curr!=slow):
-            nxt = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nxt
-        
-        if fast!=None: slow=slow.next
         while(slow):
-            if prev.val!=slow.val:
+            nxt = slow.next
+            slow.next = prev
+            prev = slow
+            slow = nxt
+       
+        while(prev):
+            if prev.val!=head.val:
                 return False
-            prev,slow=prev.next,slow.next
+            prev,head=prev.next,head.next
         
         return True
         
