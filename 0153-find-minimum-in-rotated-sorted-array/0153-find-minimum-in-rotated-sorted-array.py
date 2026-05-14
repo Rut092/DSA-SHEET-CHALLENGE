@@ -4,19 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        max_int = 2**32
-
-        low,high = 0,len(nums)-1
-        while(low<=high):
-            mid = (low+high)//2
-            if nums[low]<=nums[mid]:
-                max_int = min(max_int,nums[low])
-                low=mid+1
+        start,end = 0,len(nums)-1
+        while(start<end):
+            mid = (start + end)>>1
+            if nums[mid]>=nums[start] and nums[mid]>nums[end]:
+                start = mid+1
             else:
-                max_int = min(max_int,nums[mid])
-                high=mid-1
+                end = mid
 
-        return max_int 
-
-
-                
+        return nums[start]
