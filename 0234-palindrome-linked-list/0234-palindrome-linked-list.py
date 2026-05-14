@@ -9,26 +9,24 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: bool
         """
-        slow = fast = head
-
+        slow,fast = head,head
         while(fast and fast.next):
-            if fast.next.next:
-                slow = slow.next
-            fast=fast.next.next
-            
-        prev,pointer = None,slow.next
+            fast = fast.next.next
+            slow = slow.next
+
+        prev = None
+        curr = head
+        while(curr!=slow):
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
         
-        while(pointer):
-            forward = pointer.next
-            pointer.next=prev
-            prev = pointer
-            pointer =forward
-        
-        pointer=head
-        
-        while(prev):
-            if prev.val!=pointer.val:
+        if fast!=None: slow=slow.next
+        while(slow):
+            if prev.val!=slow.val:
                 return False
-            prev=prev.next
-            pointer = pointer.next
+            prev,slow=prev.next,slow.next
+        
         return True
+        
