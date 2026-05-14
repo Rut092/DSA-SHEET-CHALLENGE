@@ -34,6 +34,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -170,6 +171,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
