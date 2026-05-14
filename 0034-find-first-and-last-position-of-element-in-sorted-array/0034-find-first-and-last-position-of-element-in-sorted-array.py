@@ -5,25 +5,23 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-    
-        def findIndex(small):
-            i,j=0,len(nums)-1
-            found = -1
-            while(i<=j):
-                index = (i+j)//2
-                if nums[index]==target:
-                    if small:
-                        if found!=-1:
-                            found = min(found,index)
-                        else:
-                            found = index
-                        j=index-1
+        
+        def binFind(start,end,isFirst):
+            curr = -1
+            while(start<=end):
+                mid = (start+end)>>1
+                if nums[mid]==target:
+                    curr = mid
+                    if isFirst:
+                        end = mid-1
                     else:
-                        found = max(found,index)
-                        i=index+1
-                elif nums[index]>target:
-                    j = index-1
+                        start = mid+1
+
+                elif nums[mid]>target:
+                    end = mid-1
                 else:
-                    i = index+1
-            return found
-        return [findIndex(True),findIndex(False)]
+                    start = mid+1
+
+            return curr
+
+        return [binFind(0,len(nums)-1,True),binFind(0,len(nums)-1,False)]
