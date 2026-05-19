@@ -297,6 +297,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -339,4 +340,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
