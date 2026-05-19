@@ -1,13 +1,21 @@
-class Solution:
-    def numSubseq(self, nums: List[int], target: int) -> int:
+class Solution(object):
+    def numSubseq(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
         nums.sort()
-        i,j = 0,len(nums)-1
-        count=0
+        l = len(nums)
         mod = 10**9 + 7
+
+        i,j=0,l-1
+        count=0
+
         while(i<=j):
-            if nums[i]+nums[j]>target:
-                j-=1
-            else:
-                count=(count + 2**(j-i))%mod
+            if nums[i]+nums[j]<=target:
+                count = (count + 2**(j-i))%mod
                 i+=1
+            else:
+                j-=1
         return count
