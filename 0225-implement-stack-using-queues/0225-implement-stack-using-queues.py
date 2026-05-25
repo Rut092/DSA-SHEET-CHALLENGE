@@ -1,25 +1,40 @@
 from collections import deque
-class MyStack:
+class MyStack(object):
 
     def __init__(self):
         self.q = deque()
-        self.top_val = None
-    def push(self, x: int) -> None:
-        self.top_val = x
+        self.top_ele = None
+
+    def push(self, x):
+        """
+        :type x: int
+        :rtype: None
+        """
+        self.top_ele = x
         self.q.append(x)
 
-    def pop(self) -> int:
-        l = len(self.q)
-        for i in range(l-1):
+    def pop(self):
+        """
+        :rtype: int
+        """
+        for _ in range(len(self.q)-1):
             val = self.q.popleft()
             self.q.append(val)
-            self.top_val = val
+            self.top_ele = val
+
         return self.q.popleft()
 
-    def top(self) -> int:
-        return self.top_val
+    def top(self):
+        """
+        :rtype: int
+        """
+        return self.top_ele
+        
 
-    def empty(self) -> bool:
+    def empty(self):
+        """
+        :rtype: bool
+        """
         return len(self.q)==0
 
 
