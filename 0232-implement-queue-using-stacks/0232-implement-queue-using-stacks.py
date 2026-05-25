@@ -32,7 +32,7 @@ class MyQueue(object):
             for i in range(len(self.stack)):
                 self.out_stack.append(self.stack.pop())
 
-        self.top_ele = self.out_stack[-1]
+        self.top_ele = self.out_stack[-1] if self.out_stack else None
         return self.top_ele
         
 
