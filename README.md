@@ -284,6 +284,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Sliding Window
 |  |
@@ -308,6 +309,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -348,4 +350,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
