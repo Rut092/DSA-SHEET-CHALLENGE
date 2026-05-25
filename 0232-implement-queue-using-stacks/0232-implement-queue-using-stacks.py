@@ -1,27 +1,46 @@
-class MyQueue:
+class MyQueue(object):
 
     def __init__(self):
-        self.stack1 = []
-        self.stack2 = []
+        self.stack = []
+        self.out_stack = []
+        self.top_ele = None
 
-    def push(self, x: int) -> None:
-        self.stack1.append(x)
+    def push(self, x):
+        """
+        :type x: int
+        :rtype: None
+        """
+        self.stack.append(x)
+        if self.top_ele == None:
+            self.top_ele = x
 
-    def pop(self) -> int:
-        if not self.stack2:
-            for _ in range(len(self.stack1)):
-                self.stack2.append(self.stack1.pop())
-        return self.stack2.pop()
+    def pop(self):
+        """
+        :rtype: int
+        """
+        if len(self.out_stack)==0:
+            for i in range(len(self.stack)):
+                self.out_stack.append(self.stack.pop())
 
-    def peek(self) -> int:
-        if not self.stack2:
-            for _ in range(len(self.stack1)):
-                self.stack2.append(self.stack1.pop())
-        return self.stack2[-1]
+        return self.out_stack.pop() if self.out_stack else None  
 
+    def peek(self):
+        """
+        :rtype: int
+        """
+        if len(self.out_stack)==0:
+            for i in range(len(self.stack)):
+                self.out_stack.append(self.stack.pop())
 
-    def empty(self) -> bool:
-        return not (len(self.stack1) or len(self.stack2))
+        self.top_ele = self.out_stack[-1]
+        return self.top_ele
+        
+
+    def empty(self):
+        """
+        :rtype: bool
+        """
+        return len(self.stack)==0 and len(self.out_stack)==0
 
 
 # Your MyQueue object will be instantiated and called as such:
