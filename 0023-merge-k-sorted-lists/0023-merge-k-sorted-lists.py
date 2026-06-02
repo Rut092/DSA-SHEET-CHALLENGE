@@ -13,7 +13,7 @@ class Solution(object):
         n = len(lists)
         min_node = []
         for i in range(n):
-            if (lists[i])>0:
+            if (lists[i]):
                 min_node.append([lists[i].val,lists[i]])
 
         heapq.heapify(min_node)
