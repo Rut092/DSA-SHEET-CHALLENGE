@@ -10,16 +10,22 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        if not root:
-            return []
-        ans = []
-        stack =[root]
-        while(stack):
-            node = stack.pop()
-            ans.append(node.val)
 
-            if node.left:
-                stack.append(node.left)
-            if node.right:
-                stack.append(node.right)
-        return ans[::-1]
+        res = []
+        stack = []
+        curr = root
+        visited = None
+
+        while(curr or stack):
+            while(curr):
+                stack.append(curr)
+                curr = curr.left
+            
+            node = stack[-1]
+            if node.right and visited!=node.right:
+                curr = node.right
+            else:
+                visited = stack.pop()
+                res.append(visited.val)
+
+        return res
