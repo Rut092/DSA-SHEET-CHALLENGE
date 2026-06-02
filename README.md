@@ -313,6 +313,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
@@ -343,6 +344,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 |  |
@@ -361,4 +363,12 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
