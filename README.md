@@ -220,6 +220,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -238,6 +239,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
@@ -263,6 +265,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Greedy
@@ -319,6 +322,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
