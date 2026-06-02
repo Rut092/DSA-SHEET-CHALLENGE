@@ -10,22 +10,40 @@ class Solution(object):
         :type lists: List[Optional[ListNode]]
         :rtype: Optional[ListNode]
         """
-        n = len(lists)
-        min_node = []
-        for i in range(n):
-            if (lists[i]):
-                min_node.append([lists[i].val,lists[i]])
+        return self.divide(lists,0,len(lists)-1) if len(lists)>0 else None
 
-        heapq.heapify(min_node)
-        dummy = ListNode(-1)
+    def divide(self,lists,start,end):
+        if start==end:
+            return lists[start]
+        mid = (start+end)>>1
+        print(start,end)
+        left = self.divide(lists,start,mid)
+        right = self.divide(lists,mid+1,end)
+
+        return self.merge_lists(left,right)
+
+    def merge_lists(self,list1,list2):
+        dummy = ListNode(0)
         curr = dummy
+        while(list1 and list2):
+            if list1.val<list2.val:
+                curr.next = list1
+                curr = curr.next
+                list1 = list1.next
+            else:
+                curr.next = list2
+                curr = curr.next
+                list2 = list2.next
 
-        while(min_node):
-            _,node = heapq.heappop(min_node)
-            curr.next = node
+        while(list1):
+            curr.next = list1
             curr = curr.next
-            if node.next:
-                heapq.heappush(min_node,[node.next.val,node.next])
+            list1 = list1.next
+
+        while(list2):
+            curr.next = list2
+            curr = curr.next
+            list2 = list2.next
 
         curr.next = None
         return dummy.next
