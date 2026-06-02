@@ -10,19 +10,20 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        if not root:
-            return []
-        ans = []
+        if not root: return []
+        res = []
         stack = [[root,1]]
         while(stack):
             node,count = stack.pop()
+
             if count==2:
-                ans.append(node.val)
+                res.append(node.val)
             else:
                 if node.right:
                     stack.append([node.right,1])
+
                 stack.append([node,2])
+
                 if node.left:
                     stack.append([node.left,1])
-
-        return ans
+        return res
