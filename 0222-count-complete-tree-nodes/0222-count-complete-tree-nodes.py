@@ -10,17 +10,28 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
-        stack=[root]
-        count=0
-        while(stack):
-            node = stack.pop()
-            count+=1
+        if not root: return 0
 
-            if node.right:
-                stack.append(node.right)
-            if node.left:
-                stack.append(node.left)
+        left = self.left_height(root)
+        right = self.right_height(root)
 
-        return count
+        if left==right:
+            return 2**left-1
+        
+        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
+        
+    def left_height(self,root):
+        height = 0
+        curr = root
+        while(curr):
+            height+=1
+            curr = curr.left
+        return height
+    
+    def right_height(self,root):
+        height = 0
+        curr = root
+        while(curr):
+            height+=1
+            curr = curr.right
+        return height
