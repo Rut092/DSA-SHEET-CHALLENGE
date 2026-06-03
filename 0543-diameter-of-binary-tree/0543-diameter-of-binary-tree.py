@@ -10,18 +10,19 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
+    
         self.maxi = 0
 
         def diameter(root):
-            if root==None:
-                return 0
-            else:
-                left = diameter(root.left)
-                right = diameter(root.right)
+            if not root : return 0
 
-                self.maxi = max(self.maxi,left+right)
+            left = diameter(root.left)
+            right = diameter(root.right)
 
-                return 1+max(left,right)
+            self.maxi = max(self.maxi,left+right)
+
+            return 1 + max(left,right)
+
 
         diameter(root)
         return self.maxi
