@@ -10,28 +10,26 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root: return 0
+        if not root : return 0
+        
+        left = self.height(root,True)
+        right = self.height(root,False)
 
-        left = self.left_height(root)
-        right = self.right_height(root)
-
-        if left==right:
-            return 2**left-1
+        if left == right:
+            return 2**(left) - 1
         
         return 1 + self.countNodes(root.left) + self.countNodes(root.right)
-        
-    def left_height(self,root):
-        height = 0
-        curr = root
-        while(curr):
-            height+=1
-            curr = curr.left
-        return height
-    
-    def right_height(self,root):
-        height = 0
-        curr = root
-        while(curr):
-            height+=1
-            curr = curr.right
-        return height
+
+    def height(self,node,left = True):
+
+        count = 0
+        if left:
+            while(node):
+                node=node.left
+                count+=1
+        else:
+            while(node):
+                node = node.right
+                count+=1
+
+        return count
