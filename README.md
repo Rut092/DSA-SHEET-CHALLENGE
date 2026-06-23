@@ -359,6 +359,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -386,6 +387,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -396,6 +398,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -406,4 +409,5 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
