@@ -353,6 +353,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -378,6 +379,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -386,6 +388,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -393,5 +396,6 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
