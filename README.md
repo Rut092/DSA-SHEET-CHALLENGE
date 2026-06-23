@@ -24,6 +24,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0031-next-permutation/) | Medium |
@@ -124,6 +126,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
