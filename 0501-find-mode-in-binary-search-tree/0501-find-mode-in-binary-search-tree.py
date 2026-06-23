@@ -1,39 +1,43 @@
 # Definition for a binary tree node.
-# class TreeNode:
+# class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def findMode(self, root: Optional[TreeNode]) -> List[int]:
+from collections import deque
+class Solution(object):
+    def findMode(self, root):
+        """
+        :type root: Optional[TreeNode]
+        :rtype: List[int]
+        """
+        if not root: return []
+        res_ele,res_count = [],0
+        temp_ele,temp_count = None,0     
 
-        stack = []
-        curr = root
-        ele = root.val
-        count,max_ele_count = 0,0
-        max_ele = []
-        max_ele_count = 0
-
-
+        stack,curr = [],root
         while(stack or curr):
             while(curr):
                 stack.append(curr)
-                curr=curr.left
+                curr = curr.left
 
-            curr = stack.pop()
-        
-            if curr.val==ele:
-                count+=1
+            peek = stack[-1]
+            if peek.right:
+                curr = peek.right
+
+            node = stack.pop()
+
+            # check ele
+            if node.val==temp_ele:
+                temp_count+=1
             else:
-                ele=curr.val
-                count=1
-            if count>max_ele_count:
-                max_ele_count = count
-                max_ele = [ele]
+                temp_count = 1
+                temp_ele = node.val
                 
-            elif count==max_ele_count:
-                max_ele.append(ele)
-            
-            curr = curr.right
+            if res_count==temp_count:
+                res_ele.append(temp_ele)
+            elif res_count<temp_count:
+                res_count = temp_count
+                res_ele = [temp_ele]
 
-        return max_ele
+        return res_ele
