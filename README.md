@@ -361,6 +361,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -389,6 +390,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +402,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
