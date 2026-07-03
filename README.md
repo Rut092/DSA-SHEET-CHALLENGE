@@ -362,6 +362,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -373,6 +374,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
 ## Queue
 |  |
@@ -391,6 +393,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -403,6 +406,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -413,4 +417,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0501-find-mode-in-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
