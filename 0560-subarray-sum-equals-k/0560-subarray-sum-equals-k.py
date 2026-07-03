@@ -1,18 +1,17 @@
-class Solution:
-    def subarraySum(self, nums: List[int], k: int) -> int:
-        book = {0:1}
-        total = curr_sum = 0
+class Solution(object):
+    def subarraySum(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        total = prefix_sum = 0
+        recall = {0:1}
+
         for num in nums:
-            curr_sum+=num
-            if curr_sum-k in book:
-                total+=book[curr_sum-k]
-            if curr_sum in book:
-                book[curr_sum]+=1
-            else:
-                book[curr_sum]=1
-        
+            prefix_sum+=num
+            if prefix_sum-k in recall:
+                total+= recall[prefix_sum-k]
+            recall[prefix_sum] = recall.get(prefix_sum,0)+1
+
         return total
-        
-
-
-                
