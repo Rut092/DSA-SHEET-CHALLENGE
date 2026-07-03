@@ -363,6 +363,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -394,6 +395,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,11 +409,13 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0543-diameter-of-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
