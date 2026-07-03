@@ -364,6 +364,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -396,6 +397,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -410,6 +412,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0563-binary-tree-tilt](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
