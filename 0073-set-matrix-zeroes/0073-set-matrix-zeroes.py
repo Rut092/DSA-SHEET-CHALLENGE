@@ -1,30 +1,24 @@
-class Solution:
-    def setZeroes(self, matrix: List[List[int]]) -> None:
+class Solution(object):
+    def setZeroes(self, matrix):
         """
-        Do not return anything, modify matrix in-place instead.
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        rows,cols = len(matrix),len(matrix[0])
         is_first_col = False
 
-        for row in range(rows):
-            if matrix[row][0]==0:
+        cols,rows = len(matrix[0]),len(matrix)
+
+        for i in range(rows):
+            if matrix[i][0]==0:
                 is_first_col = True
-            for col in range(1,cols):
-                if matrix[row][col]==0:
-                    matrix[0][col]=0
-                    matrix[row][0]=0
-
-        for row in range(rows-1,-1,-1):
-            for col in range(cols-1,0,-1):
-                if matrix[0][col]==0 or matrix[row][0]==0:
-                    matrix[row][col]=0
-
-            if is_first_col:
-                matrix[row][0]=0
-
-        return matrix
-
-
-
-
+            for j in range(1,cols):
+                if matrix[i][j]==0:
+                    matrix[0][j] = matrix [i][0] = 0
         
+        for i in range(rows-1,-1,-1):
+            for j in range(cols-1,0,-1):
+                if matrix[i][0]==0 or matrix[0][j]==0:
+                    matrix[i][j]=0
+            
+            if is_first_col == True:
+                matrix[i][0]=0
