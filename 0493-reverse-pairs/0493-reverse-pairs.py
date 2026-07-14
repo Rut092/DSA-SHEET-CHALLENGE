@@ -1,38 +1,48 @@
-class Solution:
-    def reversePairs(self, arr: List[int]) -> int:
+class Solution(object):
+    def reversePairs(self, arr):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         self.count = 0
+
+        def divide(start,end):
+            if start<end:
+                mid = (start+end)>>1
+                divide(start,mid)
+                divide(mid+1,end)
+                
+                merge(start,mid,end)
         
-        def divide(arr,low,high):
-            if low<high:
-                mid = (low+high)//2
-                divide(arr,low,mid)
-                divide(arr,mid+1,high)
-                merge(arr,low,mid,high)
-
-        def merge(arr,low,mid,high):
-
-            j=mid+1
+        def merge(low,mid,high):
+            left_len = low
+            right_len = mid+1
+            count = 0
+            temp = []
+            
+            ind = mid+1
             for i in range(low,mid+1):
-                while(j<=high and arr[i]>2*arr[j]):
-                    j+=1
-                self.count+=j-(mid+1)
-
-            temp=[]
-            i,j=low,mid+1
-            while(i<=mid and j<=high):
-                if arr[i]<arr[j]:
-                    temp.append(arr[i])
-                    i+=1
+                while(ind<=high and arr[i]>2*arr[ind]):
+                    ind+=1
+                count+=(ind-mid-1)
+            
+            while(left_len<=mid and right_len<=high):
+                if arr[left_len]>arr[right_len]:
+                    temp.append(arr[right_len])
+                    right_len+=1
                 else:
-                    temp.append(arr[j])
-                    j+=1
-
-            if i<=mid:
-                temp.extend(arr[i:mid+1])
-            if j<=high:
-                temp.extend(arr[j:high+1])
-
-            arr[low:high+1]=temp
-
-        divide(arr,0,len(arr)-1)
+                    temp.append(arr[left_len])
+                    left_len+=1
+                    
+            if left_len<=mid:
+                temp+=arr[left_len:mid+1]
+            if right_len<=high:
+                temp+=arr[right_len:high+1]
+            
+            for i in range(low,high+1):
+                arr[i]=temp[i-low]
+            
+            self.count+=count
+            
+        divide(0,len(arr)-1)
         return self.count
