@@ -6,17 +6,19 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        maxi = max(bloomDay)
-        low,high = 1,maxi+1
-        while(low<high):
+        low,high = 1,max(bloomDay)
+        ans = -1
+        while(low<=high):
             mid = (low+high)>>1
             getVal = self.findDays(mid,m,k,bloomDay)
-            if getVal ==True:
-                high = mid
+
+            if getVal == True:
+                ans = mid
+                high = mid-1
             else:
                 low = mid+1
 
-        return high if high<maxi+1 else -1
+        return ans
     
     def findDays(self,days,m,k,bloomDay):
         boq = 0
