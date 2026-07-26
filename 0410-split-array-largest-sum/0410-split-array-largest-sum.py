@@ -7,8 +7,8 @@ class Solution(object):
         """
         low,high = 0,sum(nums)
         while(low<=high):
-            mid = (low+high)//2
-            print(mid)
+            mid = (low+high)>>1
+            
             if self.isPossible(nums,k,mid):
                 high = mid-1
             else:
@@ -16,16 +16,18 @@ class Solution(object):
 
         return low
 
-    def isPossible(self,nums,k,value):
+    def isPossible(self,nums,k,max_sum):
         count = 1
-        val = value
+        curr_sum = 0
         for num in nums:
-            if val-num>=0:
-                val-=num
-            elif value-num<0:
+            if num>max_sum:
                 return False
+            elif curr_sum+num<=max_sum:
+                curr_sum+=num
             else:
-                val = value-num
                 count+=1
-                
-        return count<=k
+                curr_sum = num
+                if count>k:
+                    return False
+            
+        return True
