@@ -1,19 +1,24 @@
-class Solution:
-    def findPeakGrid(self, mat: List[List[int]]) -> List[int]:
-        rows,cols = len(mat),len(mat[0])
-        low,high = 0, cols-1
+class Solution(object):
+    def findPeakGrid(self, matrix):
+        """
+        :type mat: List[List[int]]
+        :rtype: List[int]
+        """
+        row,col = len(matrix),len(matrix[0])
+        low,high= 0,col-1
         while(low<=high):
-            col = (low+high)//2
-            max_row = 0
-            for row in range(1,rows):
-                if mat[row][col]>mat[max_row][col]:
-                    max_row = row
-
-            if col-1>=0 and mat[max_row][col]<=mat[max_row][col-1]:
-                high = col-1
-            elif col+1<cols and mat[max_row][col]<=mat[max_row][col+1]:
-                low = col+1
+            mid = (low+high)>>1
+            
+            max_ele_ind = 0
+            for i in range(row):
+                if matrix[i][mid]>matrix[max_ele_ind][mid]:
+                    max_ele_ind = i
+          
+            if mid-1>=0 and matrix[max_ele_ind][mid-1]>matrix[max_ele_ind][mid]:
+                high = mid-1
+            elif mid+1<col and matrix[max_ele_ind][mid+1]>matrix[max_ele_ind][mid]:
+                low = mid+1
             else:
-                return [max_row,col]
-
-        return []
+                return [max_ele_ind,mid]
+        
+        return [-1,-1]
