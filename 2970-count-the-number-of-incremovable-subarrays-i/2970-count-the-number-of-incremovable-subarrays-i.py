@@ -5,27 +5,26 @@ class Solution(object):
         :rtype: int
         """
         l = len(nums)
-        valid_from_right = -1
-        valid_from_left = l
+        left_valid = 0
+        right_valid = l-1
 
-        for i in range(1,l):
-            if nums[i-1]>=nums[i]:
-                valid_from_left = i
-                break
-
-        if valid_from_left == l:
-            return (l*(l+1))//2
-
-        for i in range(l-2,-1,-1):
-            if nums[i+1]<=nums[i]:
-                valid_from_right = i+1
+        while(left_valid<l-1):
+            if nums[left_valid]<nums[left_valid + 1]:
+                left_valid+=1
+            else:
                 break
         
-        count = valid_from_left + 1 + l - valid_from_right
+        if left_valid >=l-1: return l*(l+1)//2
 
-        for i in range(valid_from_left):
-            while valid_from_right<l and nums[i]>=nums[valid_from_right]:
-                valid_from_right+=1
-            count+=(l-valid_from_right)
-
+        while(right_valid>0):
+            if nums[right_valid]>nums[right_valid-1]:
+                right_valid-=1
+            else:
+                break
+        
+        count = 1 + l - right_valid + left_valid+1
+        for i in range(left_valid+1):
+            while(right_valid<l and nums[i]>=nums[right_valid]):
+                right_valid+=1
+            count+= (l-right_valid)
         return count
