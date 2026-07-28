@@ -5,20 +5,22 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        start,end = 0,len(nums)-1
-        while(start<=end):
-            mid = (start+end)>>1
+        
+        l = len(nums)
+        low,high = 0,l-1
+        while(low<=high):
+            mid = (low+high)>>1
             if nums[mid]==target:
                 return mid
-            elif nums[start]<=nums[mid]:
-                if nums[start]<=target<=nums[mid]:
-                    end = mid
+            elif nums[low]<=nums[mid]:
+                if nums[low]<=target<nums[mid]:
+                    high = mid-1
                 else:
-                    start = mid+1
+                    low = mid+1
             else:
-                if nums[mid]<=target<=nums[end]:
-                    start = mid
+                if nums[mid]<target<=nums[high]:
+                    low = mid+1
                 else:
-                    end = mid-1
-                
+                    high = mid-1
+
         return -1
