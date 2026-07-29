@@ -22,7 +22,6 @@ class Solution(object):
             
             if low<len(res): res[low] = nums[i]
             else: res.append(nums[i])
-
-        print(res)
+            
         return len(res)
                 
