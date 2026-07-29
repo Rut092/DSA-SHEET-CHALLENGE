@@ -4,25 +4,25 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        l = len(nums)
         res = []
-        for idx in range(len(nums)):
-            low,high = 0,len(res)-1
+        for i in range(l):
+            low = 0
+            high=len(res)-1
             while(low<=high):
                 mid = (low+high)//2
-                if res[mid]==nums[idx]:
-                    low=mid
+
+                if nums[i]==res[mid]:
+                    low = mid
                     break
-                elif res[mid]>nums[idx]:
-                    high = mid-1
-                else:
+                elif res[mid]<nums[i]:
                     low = mid+1
+                else:
+                    high = mid-1
             
-            if low<len(res):
-                res[low]=nums[idx]
-            else:
-                res.append(nums[idx])
+            if low<len(res): res[low] = nums[i]
+            else: res.append(nums[i])
 
+        print(res)
         return len(res)
-
-
-        
+                
