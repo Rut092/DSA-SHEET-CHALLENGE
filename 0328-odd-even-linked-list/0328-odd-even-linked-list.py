@@ -9,22 +9,25 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if not head : return head
+
+        evenDummy = ListNode(0)
+        oddDummy = ListNode(0)
+        curr_head = oddDummy
+        even_head = evenDummy
+        even = False
+        while(head):
+            if even:
+                evenDummy.next = head
+                evenDummy = evenDummy.next
+                even = False
+            else:
+                oddDummy.next = head
+                oddDummy = oddDummy.next
+                even = True
+
+            nxt = head.next
+            head.next = None
+            head = nxt
         
-        odd_head,even_head = head,head.next
-        even = even_head
-
-        while(even_head and even_head.next):
-
-            odd_head.next = even_head.next
-            odd_head = odd_head.next
-
-            even_head.next = odd_head.next
-            even_head = even_head.next
-
-        odd_head.next = even
-
-        return head
-
-
-
+        oddDummy.next = even_head.next
+        return curr_head.next
