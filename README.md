@@ -38,6 +38,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -312,6 +313,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -445,6 +447,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0039-combination-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
