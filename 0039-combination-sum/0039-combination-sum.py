@@ -8,10 +8,11 @@ class Solution(object):
         res = []
         l = len(nums)
         def calc(index,total,val):
+            if total>target or index==l:
+                return
+                
             if total==target:
                 res.append(val)
-                return
-            if total>target or index==l:
                 return
             
             calc(index,total+nums[index],val+[nums[index]])
