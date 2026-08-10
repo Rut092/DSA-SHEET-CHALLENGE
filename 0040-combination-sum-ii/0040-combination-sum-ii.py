@@ -5,26 +5,26 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
-        if sum(nums)<target:
-            return []
         res = []
         l = len(nums)
         nums.sort()
-        def calc(index,total,val):
+        def calc(index,total,current):
             if total==target:
-                res.append(val)
-                return True
-            if total>target or index==l:
-                return False
+                res.append(current[:])
+                return 
             
-            a = calc(index+1,total+nums[index],val+[nums[index]])
-            while(a and index+1<l and nums[index]==nums[index+1]):
-                index+=1
-            b = calc(index+1,total,val)
+            for i in range(index,l):
+                if i>index and nums[i-1]==nums[i]:
+                    continue
+                
+                if total+nums[i]>target:
+                    break
 
-            return a or b
-
+                current.append(nums[i])
+                calc(i+1, total+nums[i],current)
+                current.pop()
+            
+            
         calc(0,0,[])
-        res.sort()
         return res
         
