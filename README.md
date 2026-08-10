@@ -33,6 +33,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -308,6 +309,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -438,6 +440,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
