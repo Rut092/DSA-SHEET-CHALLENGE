@@ -15,5 +15,4 @@ class Solution(object):
             calc(index+1,value+[nums[index]])
         
         calc(0,[])
-        print(res)
-        return list(res)
+        return res
