@@ -10,13 +10,14 @@ class Solution(object):
             if opened==n and closed==n:
                 res.append("".join(val))
                 return 
-            if opened>n or closed>n:
-                return
             
-            calculate(opened+1,closed,temp+['('],val+['('])
-            if temp and temp[-1]=='(':
-                temp.pop()
-                calculate(opened,closed+1,temp,val+[')'])
+            if opened<n:
+                calculate(opened+1,closed,temp+['('],val+['('])
+
+            if opened>closed:
+                if temp[-1]=='(':
+                    temp.pop()
+                    calculate(opened,closed+1,temp,val+[')'])
             
         calculate(0,0,[],[])
         return res
