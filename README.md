@@ -46,6 +46,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0162-find-peak-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
@@ -448,6 +449,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0040-combination-sum-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
