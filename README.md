@@ -87,6 +87,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -327,6 +328,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -448,6 +450,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0040-combination-sum-ii) |
