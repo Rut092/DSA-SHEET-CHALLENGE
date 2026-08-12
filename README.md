@@ -41,6 +41,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0162-find-peak-element/) | Medium |
@@ -89,6 +90,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
@@ -291,6 +293,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -325,6 +328,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0005-longest-palindromic-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
@@ -455,4 +459,16 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
