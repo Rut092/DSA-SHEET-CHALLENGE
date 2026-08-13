@@ -36,6 +36,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
@@ -165,6 +166,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0054-spiral-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -332,6 +334,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0008-string-to-integer-atoi](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
@@ -377,6 +380,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -459,6 +463,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0039-combination-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0216-combination-sum-iii) |
