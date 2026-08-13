@@ -6,30 +6,36 @@ class Solution(object):
         """
         dp = [["."]*n for _ in range(n)]
         res = []
+        rows,diag1,diag2 = set(),set(),set()
 
-        def check_valid(queens):
-            c,d = queens[-1]
-            for i in range(len(queens)-1):
-                a,b = queens[i]
-                if a==c or abs(a-c)==abs(b-d):
-                    return False
-            return True
-
-        def calc(idx,queens):
+        def calc(idx):
             if idx==n:
                 res.append(["".join(string) for string in dp])
                 return
 
             for i in range(n):
+
+                if i in rows:
+                    continue
+                if i-idx in diag1:
+                    continue
+                if i+idx in diag2:
+                    continue
+
                 dp[i][idx] = 'Q'
-                queens.append([i,idx])
-                if check_valid(queens):
-                    calc(idx+1,queens)
+                rows.add(i)
+                diag1.add(i - idx)
+                diag2.add(i + idx)
+
+                calc(idx+1)
+                
                 dp[i][idx] = '.'
-                queens.pop()
+                rows.remove(i)
+                diag1.remove(i - idx)
+                diag2.remove(i + idx)
+                
 
-
-        calc(0,[])
+        calc(0)
         return res
 
 
