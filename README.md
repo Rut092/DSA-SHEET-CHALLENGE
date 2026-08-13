@@ -31,6 +31,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -462,6 +463,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
@@ -484,4 +486,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
