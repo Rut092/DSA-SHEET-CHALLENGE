@@ -9,12 +9,11 @@ class Solution(object):
 
         def check_valid(queens):
             is_valid = True
-            for i in range(len(queens)):
-                for j in range(i+1,len(queens)):
-                    a,b = queens[i]
-                    c,d = queens[j]
-                    if a==c or b==d or abs(a-c)==abs(b-d):
-                        is_valid = False
+            c,d = queens[-1]
+            for i in range(len(queens)-1):
+                a,b = queens[i]
+                if a==c or b==d or abs(a-c)==abs(b-d):
+                    is_valid = False
             
             return is_valid
 
