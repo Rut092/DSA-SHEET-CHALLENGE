@@ -8,15 +8,12 @@ class Solution(object):
         res = []
 
         def check_valid(queens):
-            is_valid = True
             c,d = queens[-1]
             for i in range(len(queens)-1):
                 a,b = queens[i]
-                if a==c or b==d or abs(a-c)==abs(b-d):
-                    is_valid = False
-            
-            return is_valid
-
+                if a==c or abs(a-c)==abs(b-d):
+                    return False
+            return True
 
         def calc(idx,queens):
             if idx==n:
