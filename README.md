@@ -44,6 +44,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -330,6 +331,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0029-divide-two-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
