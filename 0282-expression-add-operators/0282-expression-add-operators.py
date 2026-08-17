@@ -12,17 +12,33 @@ class Solution(object):
                 if value==target:
                     res.append("".join(exp))
                 return 
-            
-            for i in range(idx+1,l+1):
-                if num[idx] == '0' and i > idx + 1:
+            curr_val = 0
+            for i in range(idx,l):
+                if num[idx] == '0' and i > idx:
                     break
-                new_num = int(num[idx:i])
+
+                curr_val = curr_val*10 + int(num[i])
+                part = num[idx:i+1]
+
                 if idx==0:
-                    calc(i,[num[idx:i]],int(num[idx:i]),int(num[idx:i]))
+                    exp.append(part)
+                    calc(i+1,exp,curr_val,curr_val)
+                    exp.pop()
                 else:
-                    calc(i,exp+['+',str(new_num)],new_num,value+new_num)
-                    calc(i,exp+['-',str(new_num)],-new_num,value-new_num)
-                    calc(i,exp+['*',str(new_num)],prev_val*new_num,value-prev_val+prev_val*new_num)
+                    exp.extend(['+',part])
+                    calc(i+1,exp,curr_val,value+curr_val)
+                    exp.pop()
+                    exp.pop()
+
+                    exp.extend(['-',part])
+                    calc(i+1,exp,-curr_val,value-curr_val)
+                    exp.pop()
+                    exp.pop()
+
+                    exp.extend(['*',part])
+                    calc(i+1,exp,prev_val*curr_val,value-prev_val+(prev_val*curr_val))
+                    exp.pop()
+                    exp.pop()
 
         calc(0,[],0,0)
         return res
