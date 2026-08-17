@@ -271,6 +271,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
@@ -326,6 +327,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
