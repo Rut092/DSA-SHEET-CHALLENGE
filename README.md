@@ -66,6 +66,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -103,6 +104,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -372,6 +374,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
@@ -528,4 +531,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0204-count-primes/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
