@@ -67,6 +67,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -375,6 +376,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Linked List
@@ -535,4 +537,5 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
