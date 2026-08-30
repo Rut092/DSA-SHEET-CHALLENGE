@@ -15,4 +15,5 @@ class Solution(object):
                 stack.pop()
                 k-=1
             stack.append(i)
-        return str(int("".join(stack[:tot])))
+        res = "".join(stack[:tot]).lstrip('0')
+        return res if res else "0"
