@@ -332,6 +332,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -381,6 +382,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
