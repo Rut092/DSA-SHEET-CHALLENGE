@@ -106,6 +106,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -330,6 +331,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -400,6 +402,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -430,6 +433,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
