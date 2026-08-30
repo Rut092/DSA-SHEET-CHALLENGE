@@ -89,6 +89,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1901-find-a-peak-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
@@ -385,6 +386,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,4 +547,5 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
