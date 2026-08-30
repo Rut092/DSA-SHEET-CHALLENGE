@@ -32,8 +32,11 @@ class LRUCache(object):
         node_prev.next = node_nxt
         node_nxt.prev = node_prev
 
-        node = self.make_node(key)
-        self.map[key] = [value,node]
+        head_nxt = self.dummy_head.next
+        self.dummy_head.next = node
+        node.prev = self.dummy_head
+        node.next = head_nxt
+        head_nxt.prev = node
 
         return value
 
