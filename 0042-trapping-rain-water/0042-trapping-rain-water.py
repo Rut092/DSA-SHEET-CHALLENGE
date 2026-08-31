@@ -2,23 +2,21 @@ class Solution:
     def trap(self, height: List[int]) -> int:
         total = 0
         l = len(height)
-        pMax = self.pMax(height,l)
-        sMax = self.sMax(height,l)
+        mini = self.miniH(height,l)
 
         for i in range(l):
-            total+= (min(pMax[i],sMax[i]) - height[i])
-        
+            total+= (mini[i] - height[i])
         return total
 
 
-    def pMax(self,height,l):
+    def miniH(self,height,l):
         arr = [height[0]]
         for i in range(1,l):
             arr.append(max(height[i],arr[-1]))
+
+        maxi = height[-1]
+        for i in range(l-1,-1,-1):
+            maxi = max(maxi,height[i])
+            arr[i] = min(arr[i],maxi)
+        
         return arr
-    
-    def sMax(self,height,l):
-        arr = [height[-1]]
-        for i in range(l-2,-1,-1):
-            arr.append(max(height[i],arr[-1]))
-        return arr[::-1]
