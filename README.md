@@ -41,6 +41,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0078-subsets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -384,6 +385,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0155-min-stack/) | Medium |
@@ -558,9 +560,14 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
