@@ -57,6 +57,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
@@ -305,6 +306,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Greedy
@@ -345,6 +347,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -458,6 +461,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -570,4 +574,9 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
