@@ -77,6 +77,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0875-koko-eating-bananas](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -126,6 +127,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Two Pointers
@@ -235,6 +237,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -353,6 +356,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
