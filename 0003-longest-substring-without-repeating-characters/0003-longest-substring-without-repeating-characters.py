@@ -5,7 +5,7 @@ class Solution:
         start,end = 0,0
         total = 0
         while(end<l):
-            if s[end] in map and start!=end:
+            if s[end] in map:
                 map.remove(s[start])
                 start+=1
             else:
