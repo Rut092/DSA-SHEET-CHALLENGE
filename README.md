@@ -78,6 +78,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -123,6 +124,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -133,6 +135,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -366,6 +369,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
