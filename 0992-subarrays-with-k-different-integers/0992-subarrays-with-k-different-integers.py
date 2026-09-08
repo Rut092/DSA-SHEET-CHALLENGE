@@ -1,9 +1,10 @@
 import collections
 class Solution:
     def subarraysWithKDistinct(self, nums: List[int], k: int) -> int:
+        l = len(nums)
+        
         def atMost(k):
             count = i = 0
-            l = len(nums)
             freq_map = collections.defaultdict(int)
             for j in range(l):
                 freq_map[nums[j]]+=1
