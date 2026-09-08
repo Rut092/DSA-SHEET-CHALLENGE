@@ -117,6 +117,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0146-lru-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0146-lru-cache/) | Medium |
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -363,6 +364,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1004-max-consecutive-ones-iii) |
@@ -399,6 +401,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0282-expression-add-operators](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
