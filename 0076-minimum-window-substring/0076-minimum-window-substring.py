@@ -13,7 +13,7 @@ class Solution(object):
                 freq_map[i]+=1
         
         i = 0
-        min_i,min_j=0,2**32
+        min_i,min_j=0,float('inf')
         for j in range(len(s)):
             if s[j] in freq_map:
                 freq_map[s[j]]-=1
@@ -28,9 +28,9 @@ class Solution(object):
             while(is_true and freq_map[s[i]]+1<=0):
                 freq_map[s[i]]+=1
                 i+=1
-                
+
             if min_j-min_i>j-i and is_true:
                 min_i,min_j=i,j
 
-        return s[min_i:min_j+1] if min_j!=2**32 else ""
+        return s[min_i:min_j+1] if min_j!=float('inf') else ""
             
