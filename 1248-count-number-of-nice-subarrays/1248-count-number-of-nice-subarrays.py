@@ -5,10 +5,10 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-
+        l = len(nums)
         def countOdd(k):
             count = odd = i = 0
-            for j in range(len(nums)):
+            for j in range(l):
                 if nums[j]%2==1:
                     odd+=1
 
