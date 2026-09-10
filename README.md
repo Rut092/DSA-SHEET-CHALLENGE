@@ -112,6 +112,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
@@ -370,6 +371,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
@@ -404,6 +406,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0008-string-to-integer-atoi](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0132-palindrome-partitioning-ii) |
