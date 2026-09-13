@@ -125,6 +125,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0229-majority-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -346,6 +347,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0215-kth-largest-element-in-an-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0355-design-twitter/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -385,6 +387,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0232-implement-queue-using-stacks](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0355-design-twitter](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0901-online-stock-span) |
 ## Sliding Window
@@ -476,6 +479,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0355-design-twitter](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0355-design-twitter/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
