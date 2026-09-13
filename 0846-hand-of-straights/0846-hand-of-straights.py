@@ -7,6 +7,8 @@ class Solution(object):
         :type groupSize: int
         :rtype: bool
         """
+        if len(hand) % groupSize != 0:
+            return False
         freq_map = Counter(hand)
         h = [i for i in freq_map]
         heapq.heapify(h)
