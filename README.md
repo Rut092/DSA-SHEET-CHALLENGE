@@ -76,6 +76,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [0735-asteroid-collision](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -127,6 +128,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0930-binary-subarrays-with-sum) |
@@ -188,6 +190,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -346,6 +349,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
+| [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Dynamic Programming
