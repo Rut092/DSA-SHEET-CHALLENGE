@@ -9,8 +9,9 @@ class Solution(object):
         """
         if len(hand) % groupSize != 0:
             return False
+
         freq_map = Counter(hand)
-        h = [i for i in freq_map]
+        h = list(freq_map.keys())
         heapq.heapify(h)
 
         while(h):
