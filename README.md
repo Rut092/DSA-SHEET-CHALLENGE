@@ -71,6 +71,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0347-top-k-frequent-elements](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -196,6 +197,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0295-find-median-from-data-stream](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
@@ -362,6 +364,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0045-jump-game-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0045-jump-game-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -379,6 +382,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0152-maximum-product-subarray](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Enumeration
 |  |
