@@ -73,6 +73,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -176,6 +177,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0234-palindrome-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -199,6 +201,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
@@ -365,6 +368,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -671,4 +675,8 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
