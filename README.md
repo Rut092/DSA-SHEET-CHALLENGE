@@ -36,6 +36,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0045-jump-game-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -191,6 +192,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0015-3sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0148-sort-list/) | Medium |
@@ -680,5 +682,6 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
