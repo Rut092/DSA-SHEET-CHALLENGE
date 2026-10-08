@@ -1,22 +1,20 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        star,opened,closed = [],[],[]
-        for i,char in enumerate(s):
+        cmin = cmax = 0
+        for char in s:
             if char=='(':
-                opened.append(i)
+                cmin+=1
+                cmax+=1
             elif char=='*':
-                star.append(i)
+                cmin-=1
+                cmax+=1
             else:
-                if opened:
-                    opened.pop()
-                elif star:
-                    star.pop()
-                else:
-                    return False
+                cmin-=1
+                cmax-=1
+        
 
-        while(star and opened):
-            if opened[-1]>star[-1]:
+            if cmax<0:
                 return False
-            opened.pop()
-            star.pop()
-        return len(opened)==0
+            cmin = max(0,cmin)
+
+        return cmin==0
