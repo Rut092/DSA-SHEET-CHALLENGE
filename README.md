@@ -82,6 +82,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0735-asteroid-collision](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
+| [0860-lemonade-change](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -371,6 +372,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
+| [0860-lemonade-change](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Dynamic Programming
