@@ -110,6 +110,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -159,6 +160,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -216,6 +219,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Union-Find
 |  |
@@ -364,6 +368,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -377,6 +382,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0860-lemonade-change](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
