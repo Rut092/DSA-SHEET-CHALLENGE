@@ -6,9 +6,6 @@ class Solution:
         i,j = intervals[0]
 
         for a,b in intervals:
-            if a<=i:
-                i=a
-
             if a<=j:
                 j=max(j,b)
             
