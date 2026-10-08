@@ -49,6 +49,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0090-subsets-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0139-word-break) |
@@ -373,6 +374,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0045-jump-game-ii/) | Medium |
+| [0135-candy](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
