@@ -1,8 +1,7 @@
 class Solution:
     def candy(self, ratings: list[int]) -> int:
         l = len(ratings)
-        total = 1
-        i = 1
+        total = i = 1
 
         while(i<l):
             while(i<l and ratings[i]==ratings[i-1]):
