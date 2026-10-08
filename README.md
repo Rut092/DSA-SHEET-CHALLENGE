@@ -378,6 +378,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -397,6 +398,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0300-longest-increasing-subsequence](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Enumeration
 |  |
@@ -465,6 +467,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -485,6 +488,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | [0402-remove-k-digits](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -618,6 +622,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
