@@ -8,17 +8,17 @@ from collections import deque
 class Solution:
     def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
         res = []
-        q = deque([[root,1]] if root else [])
+        q = deque([root] if root else [])
         level = 1
         while(q):
             curr_res = []
-            while(q and q[0][1]==level):
-                node,level = q.popleft()
-                
+            for i in range(len(q)):
+                node = q.popleft()
+
                 if node.left:
-                    q.append([node.left,level+1])
+                    q.append(node.left)
                 if node.right:
-                    q.append([node.right,level+1])
+                    q.append(node.right)
                 
                 curr_res.append(node.val)
 
