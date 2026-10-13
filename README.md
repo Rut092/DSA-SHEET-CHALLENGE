@@ -564,6 +564,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
@@ -579,6 +580,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0222-count-complete-tree-nodes) |
@@ -593,6 +595,7 @@ To build a strong foundation in DSA for interviews, placement preparation, and r
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rut092/DSA-SHEET-CHALLENGE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
