@@ -1,22 +1,23 @@
-import collections
+from collections import defaultdict
 class Solution:
-    def subarraysWithKDistinct(self, nums: List[int], k: int) -> int:
+    def subarraysWithKDistinct(self, nums: list[int], k: int) -> int:
         l = len(nums)
-        
-        def atMost(k):
-            count = i = 0
-            freq_map = collections.defaultdict(int)
-            for j in range(l):
-                freq_map[nums[j]]+=1
 
-                while len(freq_map)>k:
-                    freq_map[nums[i]]-=1
-                    if freq_map[nums[i]]==0:
-                        del freq_map[nums[i]]
+        def nInt(n):
+            i = total = 0
+            mapping = defaultdict(int)
+
+            for j in range(l):
+                mapping[nums[j]]+=1
+
+                while(len(mapping)>n):
+                    mapping[nums[i]]-=1
+                    if mapping[nums[i]]==0:
+                        del mapping[nums[i]]
                     i+=1
 
-                count+=(j-i+1)
-                
-            return count
+                total+=(j-i+1)
+
+            return total
         
-        return atMost(k)-atMost(k-1)
+        return nInt(k)-(nInt(k-1) if k-1>0 else 0)
